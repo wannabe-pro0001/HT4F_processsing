@@ -1,0 +1,1001 @@
+Customer Last Name,Customer First Name,Customer ID,Product Category,Order Date,Quantity Ordered,Order Status,State,Address,City,Postal Code,Sale Price,Phone
+Hughes,Lewis,1234,Clothing,2022-12-24,12,Delivered,LA,49458 Glenwood Avenue,Shreveport,71101,564,504-870-1437
+Gomez,Ali,1235,Home & Kitchen,2022-12-06,2,In Transit,LA,11591 River Road,Covington,70433,777,337-400-1567
+Beck,Mila,1236,Personal Care,2022-12-01,7,Delivered,GA,48087 Jackson Street,Atlanta,30303,1829,404-573-7088
+Juarez,Ryleigh,1237,Personal Care,2022-12-25,9,Delivered,NC,46798 Hillcrest Avenue,Columbia,29201,227,252-325-9603
+Preston,Leonidas,1238,Electronics,2022-12-29,9,Shipped,GA,65693 Mulberry Street,Avondale Estates,30002,1355,404-383-9724
+Jacobs,Hayden,1239,Home & Kitchen,2022-12-01,2,Shipped,SC,97967 Willow Avenue,Charleston,29401,1118,803-792-7765
+Knox,Brooke,1240,Electronics,2022-12-18,10,Shipped,SC,83292 Oakwood Avenue,Greenville,29601,1115,803-751-7655
+Rice,Diana,1241,Home & Kitchen,2022-12-28,2,Delivered,SC,76154 Valley View Drive,Bluffton,29910,1193,843-300-9863
+Valencia,Rosalie,1242,Personal Care,2022-12-03,5,Shipped,AL,58506 Chestnut Street,Adamsville,35005,1413,251-513-6807
+Pierce,Andre,1243,Home & Kitchen,2022-12-13,15,Shipped,SC,16622 Ridge Road,Bluffton,29910,1066,854-366-4240
+Olson,Walter,1244,Clothing,2022-12-21,8,Delivered,NC,27679 Vineyard Drive,Charlotte,28202,953,704-224-1745
+Malone,Nayeli,1245,Personal Care,2022-12-17,17,Cancelled,NC,18611 Country Club Road,Asheville,28801,1627,252-167-1010
+Holt,Thea,1246,Personal Care,2022-12-05,15,Shipped,GA,66565 Sunset Drive,Atlanta,30303,573,762-165-5617
+Briggs,Devin,1247,Pets,2022-12-13,4,Delivered,AL,34238 Central Avenue,Mobile,36602,268,938-502-6412
+Woodard,Destiny,1248,Clothing,2022-12-09,13,Shipped,LA,24352 Country Club Road,Shreveport,71101,369,337-892-3659
+Fuentes,Rylee,1249,Electronics,2022-12-26,1,Delivered,LA,29307 Lakeview Drive,Shreveport,71101,258,504-115-3308
+Shaffer,Luka,1250,Clothing,2022-12-07,18,Delivered,AL,65141 High Street,Montgomery,36104,564,334-293-6399
+Berry,Colt,1251,Electronics,2022-12-05,7,In Transit,AL,65962 Railroad Avenue,Mobile,36602,1630,334-902-6908
+Klein,Madelynn,1252,Sports & Outdoors,2022-12-18,4,Shipped,LA,2645 Pinecrest Drive,New Orleans,70112,318,337-463-3000
+Landry,Edward,1253,Home & Kitchen,2022-12-15,17,Delivered,NC,6247 Willow Street,Asheville,28801,129,252-895-5007
+Weaver,Cash,1254,Books,2022-12-31,3,Shipped,AL,5088 Spruce Street,Birmingham,35203,973,256-407-8636
+Solomon,Ronin,1255,Home & Kitchen,2022-12-20,7,Shipped,NC,17929 Elmwood Drive,Columbia,29201,1549,704-627-6050
+Benjamin,Frank,1256,Sports & Outdoors,2022-12-06,15,Shipped,LA,36792 Smith Street,Baton Rouge,70802,617,225-717-2529
+Herrera,Olive,1257,Clothing,2022-12-04,5,Cancelled,LA,82263 Chestnut Avenue,Shreveport,71101,666,337-845-7891
+Bryan,Noa,1258,Clothing,2022-12-08,13,In Transit,NC,90817 College Avenue,Columbia,29201,727,704-352-8652
+Cook,Collin,1259,Electronics,2022-12-07,20,Cancelled,SC,26670 School Street,Greenville,29601,1189,803-706-7526
+Thompson,Kane,1260,Sports & Outdoors,2022-12-29,13,Delivered,LA,33379 Country Club Road,New Orleans,70112,1540,504-935-9179
+Kane,James,1261,Pets,2022-12-21,9,Shipped,FL,77662 West Street,Birmingham,35203,1293,305-528-6038
+Arias,Sawyer,1262,Pets,2022-12-30,16,Shipped,FL,92850 Broad Street,Birmingham,35203,363,386-385-4334
+Vincent,Isabelle,1263,Sports & Outdoors,2022-12-30,3,Delivered,SC,46177 Railroad Avenue,Greenville,29601,403,854-871-5836
+Quintana,Raya,1264,Home & Kitchen,2022-12-15,8,Shipped,AL,93700 Elm Street,Montgomery,36104,935,256-640-7511
+Anderson,Kaiden,1265,Personal Care,2022-12-19,7,Shipped,FL,91946 Elm Street,Birmingham,35203,467,407-491-4268
+Chan,Shiloh,1266,Personal Care,2022-12-28,13,In Transit,NC,86256 Highland Avenue,Chapel Hill,27514,78,252-445-8938
+Foster,Layla,1267,Pets,2022-12-25,20,Cancelled,GA,14083 Second Street,Savannah,31401,251,470-368-9598
+Giles,Sarai,1268,Electronics,2022-12-22,5,Delivered,SC,58379 Spring Street,Bluffton,29910,250,803-825-5390
+Morris,Kason,1269,Books,2022-12-23,11,Delivered,SC,59738 Elmwood Drive,Bluffton,29910,1521,864-394-6124
+Avery,Aspen,1270,Pets,2022-12-08,4,Shipped,NC,98076 Pinecrest Drive,Columbia,29201,27,704-961-9548
+Fitzgerald,Cade,1271,Electronics,2022-12-10,19,Cancelled,NC,92945 Washington Street,Chapel Hill,27514,1439,704-692-1773
+Sharp,Collins,1272,Clothing,2022-12-05,6,Shipped,GA,30702 Main Street,Atlanta,30303,638,770-983-6849
+Richmond,Jayce,1273,Home & Kitchen,2022-12-17,5,Shipped,SC,83078 Laurel Street,Bluffton,29910,999,854-193-2426
+Hinton,Josiah,1274,Pets,2022-12-08,10,Shipped,GA,94582 Highland Avenue,Columbus,31901,153,478-878-3125
+Morales,Helen,1275,Personal Care,2022-12-25,15,Shipped,FL,40276 Holly Street,Palmetto,34221,995,386-871-7450
+Mccormick,Alani,1276,Sports & Outdoors,2022-12-21,16,Delivered,LA,29196 Fourth Street,Baton Rouge,70802,153,504-827-8657
+Winters,Francis,1277,Sports & Outdoors,2022-12-25,9,In Transit,SC,72306 Division Street,Greenville,29601,781,854-494-3191
+Ochoa,Wyatt,1278,Sports & Outdoors,2022-12-25,17,Delivered,NC,36731 Pennsylvania Avenue,Asheville,28801,139,336-862-9245
+Rollins,Leah,1279,Clothing,2022-12-23,8,Delivered,SC,54591 Pine Street,Charleston,29401,1596,843-274-3275
+Buck,Kane,1280,Pets,2022-12-24,15,Delivered,FL,97703 Holly Street,St. Petersburg,33701,316,754-799-5833
+Blevins,Madilyn,1281,Electronics,2022-12-23,14,Delivered,AL,20935 Central Avenue,Adamsville,35005,1476,938-613-8539
+Parsons,Jared,1282,Books,2022-12-18,16,Delivered,FL,61256 Sixth Street,Birmingham,35203,1743,305-894-1491
+Flores,Jackson,1283,Electronics,2022-12-26,1,Delivered,FL,68780 Madison Avenue,St. Petersburg,33701,1691,407-688-1885
+Collier,Abigail,1284,Home & Kitchen,2022-12-07,5,Delivered,SC,21123 Sunset Boulevard,Camden,29020,17,843-149-3897
+Harvey,Greyson,1285,Clothing,2022-12-30,10,Shipped,FL,69637 Park Place,Palmetto,34221,1836,407-427-9592
+Hunter,Luca,1286,Books,2022-12-08,11,Shipped,SC,46773 Fairview Avenue,Greenville,29601,418,864-873-9566
+Morris,Mariana,1287,Home & Kitchen,2022-12-15,1,Shipped,AL,78572 Spring Street,Montgomery,36104,827,938-333-1465
+Mcdaniel,Eliza,1288,Clothing,2022-12-06,2,Shipped,AL,77361 Pleasant Street,Mobile,36602,323,938-968-8578
+Atkins,Molly,1289,Sports & Outdoors,2022-12-26,3,Shipped,SC,18348 Elmwood Lane,Bluffton,29910,250,864-360-3309
+Maldonado,Arielle,1290,Personal Care,2022-12-19,20,In Transit,GA,11547 Elmwood Avenue,Avondale Estates,30002,1505,770-992-9085
+Trevino,Demi,1291,Sports & Outdoors,2022-12-18,10,Shipped,AL,84842 School Street,Mobile,36602,142,256-695-4589
+Collier,Mckenna,1292,Electronics,2022-12-27,13,Delivered,GA,85951 State Street,Atlanta,30303,555,762-429-3050
+Baldwin,Adalynn,1293,Pets,2022-12-01,12,Shipped,FL,49039 Madison Avenue,Stuart,34994,609,561-619-6756
+Silva,Preston,1294,Pets,2022-12-08,11,Shipped,LA,69386 Forest Avenue,New Orleans,70112,1124,225-142-7647
+Watts,Bailey,1295,Books,2022-12-20,11,Shipped,AL,1638 Jefferson Street,Montgomery,36104,55,256-115-8990
+Russell,Bentley,1296,Electronics,2022-12-15,16,Delivered,AL,12662 Jefferson Street,Montgomery,36104,1032,251-455-8883
+Harrington,Lillian,1297,Electronics,2022-12-30,2,Delivered,GA,99805 Willow Avenue,Atlanta,30303,920,706-596-8375
+Fleming,Kayden,1298,Sports & Outdoors,2022-12-11,12,Shipped,GA,44128 Rose Street,Atlanta,30303,974,229-421-4345
+Hayden,Manuel,1299,Pets,2022-12-03,3,Shipped,NC,28953 Spring Street,Columbia,29201,1104,336-332-1148
+Nicholson,Hattie,1300,Personal Care,2022-12-18,18,Delivered,GA,77428 Lake Shore Drive,Savannah,31401,1042,706-191-7719
+Guerra,Legacy,1301,Books,2022-12-24,11,Delivered,SC,78563 Sunset Drive,Greenville,29601,369,843-538-5910
+Correa,Brantley,1302,Electronics,2022-12-27,9,Shipped,LA,90849 Valley Road,New Orleans,70112,1406,225-423-7010
+Carey,Rosie,1303,Pets,2022-12-22,2,Delivered,NC,67550 Pinecrest Drive,Asheville,28801,1578,704-267-9952
+Morales,Heaven,1304,Books,2022-12-14,2,Delivered,AL,13470 Sunset Avenue,Birmingham,35203,830,334-969-5546
+Carroll,Chance,1305,Personal Care,2022-12-25,1,Delivered,SC,28468 Fourth Street,Charleston,29401,1583,803-934-1834
+Bautista,Parker,1306,Sports & Outdoors,2022-12-16,16,Delivered,SC,77273 Broad Street,Charleston,29401,1794,843-485-2746
+Fox,Kamari,1307,Clothing,2022-12-13,8,In Transit,AL,28021 Church Street,Mobile,36602,590,205-197-8253
+Wong,Emerson,1308,Electronics,2022-12-17,17,Delivered,FL,15378 Vine Street,St. Petersburg,33701,990,754-152-9144
+Rubio,Tatum,1309,Clothing,2022-12-01,15,Delivered,FL,86906 Madison Street,Birmingham,35203,1225,561-615-2237
+Sanchez,Sarai,1310,Home & Kitchen,2022-12-26,9,Delivered,GA,40389 Cherry Street,Columbus,31908,411,762-332-5145
+Dean,Gunner,1311,Sports & Outdoors,2022-12-22,9,Delivered,AL,64350 Holly Street,Mobile,36602,654,251-702-5287
+Pham,Willa,1312,Electronics,2022-12-30,16,Shipped,NC,17559 Ridge Road,Chapel Hill,27514,191,252-345-9019
+Mata,Cooper,1313,Pets,2022-12-08,11,In Transit,GA,27110 Railroad Avenue,Bainbridge,39828,848,706-211-2458
+Mason,Jude,1314,Electronics,2022-12-28,4,Shipped,FL,49236 Elmwood Lane,St. Petersburg,33701,539,754-705-2884
+Woodard,Ari,1315,Personal Care,2022-12-07,13,Shipped,NC,40539 Laurel Street,Charlotte,28202,794,704-221-4952
+Watson,Alessandra,1316,Clothing,2022-12-05,1,Shipped,NC,99747 Vineyard Drive,Asheville,28801,620,704-319-3146
+Coleman,Callen,1317,Pets,2022-12-23,13,Delivered,LA,44753 Glenwood Avenue,Covington,70433,1679,337-344-3026
+Clay,Aria,1318,Pets,2022-12-20,19,Shipped,AL,47940 Broad Street,Mobile,36602,1456,251-347-4163
+Truong,Nina,1319,Pets,2022-12-26,17,Delivered,AL,32216 Colonial Drive,Birmingham,35203,130,256-114-3476
+Saunders,Freya,1320,Books,2022-12-19,2,In Transit,LA,81388 Holly Street,Baton Rouge,70802,1187,337-841-1244
+Ballard,Amir,1321,Clothing,2022-12-15,20,Delivered,NC,25070 Division Street,Charlotte,28202,776,252-661-6167
+Weber,Harvey,1322,Electronics,2022-12-21,11,Delivered,FL,15738 Main Street,Sunny Isles Beach,33160,1514,321-364-3389
+Delarosa,Joaquin,1323,Books,2022-12-19,11,Delivered,LA,33647 Willow Avenue,Baton Rouge,70802,1023,337-905-5863
+Gallagher,Adaline,1324,Books,2022-12-26,5,Delivered,SC,44385 Willow Avenue,Bluffton,29910,1552,864-621-2842
+Rosales,Legacy,1325,Clothing,2022-12-01,13,Shipped,NC,4193 Harrison Street,Columbia,29201,1480,704-937-5130
+Luna,Denver,1326,Clothing,2022-12-18,18,Delivered,AL,13476 Second Street,Birmingham,35203,1169,334-210-5989
+Jaramillo,Emanuel,1327,Home & Kitchen,2022-12-19,6,Shipped,AL,63410 Washington Street,Adamsville,35005,920,251-765-8295
+Crawford,Hugo,1328,Sports & Outdoors,2022-12-29,18,Cancelled,SC,33323 Fifth Street,Camden,29020,341,843-339-6954
+Austin,Margaret,1329,Personal Care,2022-12-16,14,Delivered,AL,10432 Pennsylvania Avenue,Adamsville,35005,604,334-584-4401
+Weiss,Raphael,1330,Clothing,2022-12-27,5,Shipped,LA,61346 Sunset Boulevard,New Orleans,70112,193,504-294-9183
+Cardenas,Myles,1331,Sports & Outdoors,2022-12-09,19,Shipped,SC,1700 Holly Street,Camden,29020,176,854-170-4209
+Cruz,Alexis,1332,Sports & Outdoors,2022-12-09,9,Delivered,NC,75569 Oakwood Avenue,Chapel Hill,27514,926,336-871-8482
+Mcbride,Ellis,1333,Personal Care,2022-12-03,17,Shipped,NC,72500 Lincoln Street,Chapel Hill,27514,404,704-614-4811
+Singh,Zuri,1334,Clothing,2022-12-12,17,Delivered,AL,81750 Willow Street,Mobile,36602,1554,251-801-1620
+Winters,Annie,1335,Electronics,2022-12-04,1,Delivered,NC,84221 Central Avenue,Columbia,29201,1658,336-759-3682
+Garcia,Dakota,1336,Books,2022-12-07,17,Shipped,NC,48298 Ash Street,Asheville,28801,1080,252-970-3343
+Mcbride,Luke,1337,Pets,2022-12-03,13,Delivered,GA,41975 Oak Street,Savannah,31401,294,470-430-7312
+Frye,Jasiah,1338,Clothing,2022-12-23,20,Delivered,GA,45313 Lakeview Avenue,Savannah,31401,1307,770-915-3336
+Xiong,Selah,1339,Electronics,2022-12-10,20,Delivered,NC,94205 Chestnut Lane,Asheville,28801,567,704-858-8075
+Pearson,Amira,1340,Electronics,2022-12-18,9,Delivered,NC,98061 Valley Road,Charlotte,28202,120,336-460-2851
+Castaneda,Rylee,1341,Home & Kitchen,2022-12-04,9,Shipped,SC,99324 Liberty Street,Bluffton,29910,865,854-879-7898
+Jarvis,Adelina,1342,Sports & Outdoors,2022-12-03,11,Shipped,GA,45870 Chestnut Street,Savannah,31401,1777,404-576-2929
+Fields,Adelynn,1343,Electronics,2022-12-06,10,Shipped,LA,14314 Valley View Drive,New Orleans,70112,1226,318-568-1897
+Keller,Miguel,1344,Sports & Outdoors,2022-12-27,10,Cancelled,LA,2146 Lincoln Street,Baton Rouge,70802,1674,318-337-7456
+Rosales,Clara,1345,Clothing,2022-12-27,4,Shipped,SC,31823 Valley View Drive,Charleston,29401,1676,864-146-4544
+Ali,Ronin,1346,Home & Kitchen,2022-12-20,1,Shipped,NC,81411 Terrace Avenue,Charlotte,28202,477,252-857-6234
+Bartlett,Joshua,1347,Personal Care,2022-12-09,7,Delivered,LA,95885 Oakwood Avenue,Baton Rouge,70802,1037,318-515-5480
+Gallagher,Kate,1348,Home & Kitchen,2022-12-25,5,Shipped,LA,78172 Windsor Avenue,New Orleans,70112,259,318-486-2375
+Flynn,Daphne,1349,Books,2022-12-27,9,Delivered,LA,46843 Hillcrest Avenue,Shreveport,71101,1325,504-471-2277
+Maldonado,Elise,1350,Pets,2022-12-26,5,Shipped,AL,27790 Lakeview Avenue,Birmingham,35203,1745,256-982-5039
+Townsend,Charles,1351,Books,2022-12-05,15,Shipped,GA,41021 Maple Street,Columbus,31908,673,706-978-4856
+Pollard,Rory,1352,Personal Care,2022-12-15,12,In Transit,FL,63972 Third Street,Fleming Island,32003,1086,407-334-8753
+Clark,Zion,1353,Pets,2022-12-23,18,Delivered,LA,76614 Sunset Drive,New Orleans,70112,189,504-837-6216
+Randolph,Joaquin,1354,Books,2022-12-15,5,Delivered,SC,2262 Vine Street,Bluffton,29910,589,803-532-4843
+Guerra,Edgar,1355,Personal Care,2022-12-25,18,Delivered,GA,22080 Highland Drive,Avondale Estates,30002,432,404-607-5773
+Johnston,Ace,1356,Electronics,2022-12-25,16,Shipped,GA,20937 Elmwood Drive,Atlanta,30303,1523,478-432-9796
+Kemp,Amy,1357,Clothing,2022-12-21,5,Delivered,AL,16319 Highland Drive,Mobile,36602,1629,256-386-3628
+Berger,Avianna,1358,Personal Care,2022-12-22,9,In Transit,FL,92413 Glenwood Avenue,Fleming Island,32003,1042,754-913-3408
+Hogan,Bryce,1359,Pets,2022-12-09,8,Shipped,SC,69810 Fourth Street,Bluffton,29910,413,843-285-5632
+Castaneda,Princeton,1360,Sports & Outdoors,2022-12-23,13,Delivered,AL,11885 Elmwood Lane,Adamsville,35005,1446,205-658-9642
+Griffin,Isabella,1361,Electronics,2022-12-24,9,In Transit,SC,8113 Elmwood Avenue,Greenville,29601,19,864-671-5682
+Costa,Charlie,1362,Sports & Outdoors,2022-12-05,14,Shipped,NC,71221 Central Avenue,Columbia,29201,18,704-615-8587
+Schmitt,Aliyah,1363,Sports & Outdoors,2022-12-02,12,In Transit,SC,1111 Hamilton Street,Camden,29020,675,803-268-2931
+Holloway,Raven,1364,Pets,2022-12-08,8,Shipped,NC,99269 Chestnut Lane,Charlotte,28202,1117,336-550-7982
+Kirby,Malik,1365,Personal Care,2022-12-06,11,Shipped,NC,56871 Lakeview Drive,Charlotte,28202,1366,704-809-1091
+Schwartz,Kylo,1366,Pets,2022-12-04,3,Cancelled,GA,51652 Essex Street,Savannah,31401,1306,470-500-9965
+Salazar,Jeremy,1367,Home & Kitchen,2022-12-23,20,Shipped,NC,23363 Pinecrest Drive,Charlotte,28202,1444,336-776-4613
+Bartlett,Oscar,1368,Home & Kitchen,2022-12-29,1,In Transit,SC,9539 Liberty Street,Bluffton,29910,249,803-813-6691
+Montgomery,Harvey,1369,Pets,2022-12-15,20,Shipped,SC,74916 Broadway,Greenville,29601,994,803-494-1354
+Vo,Kai,1370,Pets,2022-12-05,3,In Transit,LA,96097 School Street,Baton Rouge,70802,1059,337-215-1993
+Velazquez,Nico,1371,Books,2022-12-30,9,Delivered,LA,74463 Elmwood Drive,Shreveport,71101,171,318-239-2742
+Vasquez,Lucy,1372,Home & Kitchen,2022-12-29,5,Delivered,LA,47545 Elm Street,Covington,70433,598,225-596-2271
+Shepherd,Charli,1373,Clothing,2022-12-05,20,In Transit,SC,81712 Main Street,Greenville,29601,591,803-980-5972
+Meyer,Evie,1374,Clothing,2022-12-27,14,Delivered,NC,69525 Spruce Street,Columbia,29201,589,336-483-2616
+Powell,Brooke,1375,Personal Care,2022-12-23,12,Delivered,NC,61314 Elmwood Avenue,Chapel Hill,27514,1005,252-307-7150
+Walton,Erick,1376,Personal Care,2022-12-07,13,In Transit,LA,28466 Valley View Drive,Covington,70433,641,504-246-5040
+Guzman,Emery,1377,Books,2022-12-13,20,Shipped,FL,58062 Center Street,Palmetto,34221,1477,754-636-8780
+Rose,Annabelle,1378,Pets,2022-12-01,14,Delivered,SC,9587 Walnut Avenue,Greenville,29601,1627,864-778-3052
+Schmidt,Spencer,1379,Personal Care,2022-12-06,8,Delivered,AL,40522 Lakeview Drive,Mobile,36602,876,334-553-7959
+Walter,Callie,1380,Clothing,2022-12-15,18,Shipped,AL,69181 Lake Street,Adamsville,35005,1105,938-978-7898
+Chavez,Cecilia,1381,Home & Kitchen,2022-12-23,6,Shipped,AL,38050 Highland Avenue,Birmingham,35203,972,205-873-8703
+Blackwell,Finley,1382,Sports & Outdoors,2022-12-28,19,Shipped,LA,35620 Sixth Street,Baton Rouge,70802,787,504-772-7986
+Johnston,Faith,1383,Personal Care,2022-12-20,16,Shipped,NC,33826 College Avenue,Asheville,28801,109,252-321-3512
+Solis,Mary,1384,Pets,2022-12-28,3,Shipped,LA,8634 Grant Street,New Orleans,70112,533,337-911-9878
+Jacobs,Abel,1385,Books,2022-12-27,6,Shipped,SC,69477 Meadow Lane,Greenville,29601,963,854-298-5958
+Acevedo,Lewis,1386,Personal Care,2022-12-06,6,Delivered,FL,43583 Pine Street,St. Petersburg,33701,448,561-900-6004
+Keller,Annalise,1387,Clothing,2022-12-21,2,Shipped,LA,25752 Forest Avenue,Baton Rouge,70802,299,318-605-1136
+Cohen,London,1388,Personal Care,2022-12-19,10,Cancelled,NC,28698 River Road,Charlotte,28202,1829,704-870-6220
+Espinosa,Myla,1389,Books,2022-12-22,2,Shipped,SC,35495 Lakeview Avenue,Camden,29020,702,864-158-1152
+Watts,Dakota,1390,Personal Care,2022-12-10,18,Delivered,FL,22558 Main Street,Stuart,34994,451,727-732-5434
+Thornton,Bodie,1391,Sports & Outdoors,2022-12-20,1,Delivered,LA,43904 Elm Avenue,Covington,70433,766,225-429-2694
+Hunter,Abigail,1392,Clothing,2022-12-14,17,Shipped,LA,21614 Chestnut Lane,Shreveport,71101,955,225-878-3673
+Ross,Delilah,1393,Personal Care,2022-12-24,6,Shipped,AL,34687 Park Street,Montgomery,36104,565,334-997-6666
+Mckay,Serena,1394,Books,2022-12-11,3,Delivered,FL,23913 Park Street,Birmingham,35203,1594,561-778-3179
+Rubio,Asher,1395,Sports & Outdoors,2022-12-01,14,Delivered,LA,68071 Oak Street,Shreveport,71101,1332,337-723-5323
+Galindo,Shiloh,1396,Home & Kitchen,2022-12-15,20,Delivered,NC,80996 Park Avenue,Chapel Hill,27514,1546,336-539-8428
+Aguilar,Veronica,1397,Pets,2022-12-13,13,Shipped,LA,91293 Spring Street,New Orleans,70112,1176,225-269-9855
+Mahoney,Selah,1398,Books,2022-12-13,19,Shipped,AL,42964 Smith Street,Birmingham,35203,1663,205-193-2529
+Reed,Jayden,1399,Clothing,2022-12-01,5,Delivered,NC,40685 Cherry Lane,Columbia,29201,492,704-463-5025
+Carpenter,Jordan,1400,Clothing,2022-12-28,20,Cancelled,AL,53321 Sunset Drive,Birmingham,35203,1751,938-776-1366
+Stokes,Jace,1401,Sports & Outdoors,2022-12-20,2,Delivered,AL,23171 Elm Street,Adamsville,35005,916,334-451-9689
+Barrera,Ari,1402,Books,2022-12-31,1,Shipped,AL,20949 River Road,Montgomery,36104,803,256-634-8186
+Pitts,Michelle,1403,Electronics,2022-12-27,11,Shipped,NC,60684 Walnut Street,Chapel Hill,27514,1627,252-831-3847
+Christian,Brantley,1404,Electronics,2022-12-31,18,In Transit,NC,74009 Walnut Street,Columbia,29201,144,704-761-6415
+Mccall,Saylor,1405,Home & Kitchen,2022-12-30,17,In Transit,AL,61606 Broadway,Adamsville,35005,579,251-150-8132
+Martinez,Samantha,1406,Clothing,2022-12-24,6,Delivered,FL,18174 Hamilton Street,Fleming Island,32003,1385,305-589-6539
+Acosta,Willa,1407,Personal Care,2022-12-11,3,Cancelled,FL,61222 River Road,Stuart,34994,109,407-828-7268
+Jaramillo,Camilla,1408,Home & Kitchen,2022-12-04,2,Cancelled,GA,11217 Willow Avenue,Savannah,31401,531,470-268-9113
+Rivers,Devin,1409,Home & Kitchen,2022-12-04,4,Shipped,FL,69467 Ash Street,Palmetto,34221,1041,727-237-8862
+Hoffman,Melissa,1410,Home & Kitchen,2022-12-24,4,Delivered,AL,71226 Fourth Street,Mobile,36602,172,938-569-9607
+Horn,Mabel,1411,Electronics,2022-12-28,18,In Transit,NC,19627 Railroad Avenue,Asheville,28801,576,252-712-9419
+Schmitt,Daniela,1412,Electronics,2022-12-27,20,Shipped,NC,21306 Jackson Street,Charlotte,28202,528,704-156-6076
+Bradshaw,Dax,1413,Personal Care,2022-12-07,15,Delivered,LA,67143 Ridge Road,Baton Rouge,70802,968,337-161-8135
+Boone,Aitana,1414,Home & Kitchen,2022-12-08,12,Delivered,GA,10415 Pinecrest Drive,Columbus,31901,1860,770-251-3007
+Roy,Patrick,1415,Clothing,2022-12-17,8,Delivered,LA,30173 Elm Street,Shreveport,71101,908,225-212-6224
+Mccarthy,Calvin,1416,Pets,2022-12-13,9,Shipped,FL,42989 Park Street,Birmingham,35203,67,561-501-6834
+Everett,Lyra,1417,Clothing,2022-12-09,7,Delivered,AL,77971 Spring Street,Birmingham,35203,561,938-570-3964
+Alvarado,Zayn,1418,Clothing,2022-12-20,3,Delivered,NC,12790 Oakwood Avenue,Columbia,29201,1782,704-946-9515
+Lynch,Xander,1419,Pets,2022-12-08,7,Shipped,LA,9819 Country Club Road,Covington,70433,1440,504-203-6033
+Escobar,Declan,1420,Personal Care,2022-12-05,2,Shipped,FL,34740 Highland Avenue,St. Petersburg,33701,607,321-959-7129
+Fisher,Zara,1421,Sports & Outdoors,2022-12-02,18,In Transit,SC,77635 Main Street,Bluffton,29910,541,864-215-9371
+Gould,Lyra,1422,Electronics,2022-12-16,5,Cancelled,AL,7972 Cherry Lane,Adamsville,35005,944,334-980-4230
+Contreras,Addison,1423,Pets,2022-12-04,17,Shipped,FL,36139 North Street,Palmetto,34221,103,321-637-1625
+Burke,Charles,1424,Home & Kitchen,2022-12-10,16,In Transit,GA,13874 Willow Avenue,Atlanta,30303,130,229-936-3366
+Owens,Maximus,1425,Home & Kitchen,2022-12-28,11,Shipped,SC,49133 Smith Street,Bluffton,29910,608,864-588-6242
+Foster,Sadie,1426,Books,2022-12-28,4,Delivered,LA,93620 Court Street,Covington,70433,1637,225-806-4595
+Carpenter,Sloane,1427,Electronics,2022-12-05,17,Shipped,NC,48866 College Avenue,Columbia,29201,1202,704-789-3017
+Reyna,Heidi,1428,Clothing,2022-12-18,2,Delivered,FL,74404 Rose Street,St. Petersburg,33701,1304,305-366-3197
+Weaver,Hallie,1429,Pets,2022-12-19,20,Delivered,SC,8622 Sunset Boulevard,Charleston,29401,1648,864-793-6596
+Jensen,Jason,1430,Sports & Outdoors,2022-12-17,12,Delivered,FL,37100 Highland Drive,Birmingham,35203,1293,407-628-5163
+Ayala,Elaina,1431,Sports & Outdoors,2022-12-30,6,Shipped,FL,80307 College Avenue,Stuart,34994,1214,727-741-2410
+Walton,Genevieve,1432,Sports & Outdoors,2022-12-12,9,Shipped,LA,62233 Valley View Drive,Shreveport,71101,1418,504-600-9043
+Kirk,Mathias,1433,Books,2022-12-12,1,Shipped,GA,4535 Rose Street,Avondale Estates,30002,1552,678-334-6067
+Terrell,Isabelle,1434,Clothing,2022-12-08,10,Cancelled,NC,69697 Broadway,Chapel Hill,27514,50,704-166-8110
+Norris,Kobe,1435,Personal Care,2022-12-06,2,Delivered,FL,92079 Glenwood Avenue,Sunny Isles Beach,33160,1117,407-656-9924
+Huerta,Avianna,1436,Sports & Outdoors,2022-12-25,20,In Transit,NC,93670 Forest Avenue,Asheville,28801,954,336-455-8999
+Hail,Raymond,1437,Electronics,2022-12-16,2,Delivered,NC,83303 Smith Street,Charlotte,28202,692,704-486-3490
+Bauer,Melanie,1438,Clothing,2022-12-29,14,Shipped,AL,19079 Sunset Avenue,Birmingham,35203,1436,938-422-2143
+English,Jordan,1439,Electronics,2022-12-14,6,Delivered,AL,95910 Sunset Boulevard,Adamsville,35005,1297,251-623-9054
+Allen,Dakota,1440,Pets,2022-12-12,16,Cancelled,AL,71926 Forest Avenue,Adamsville,35005,1011,334-396-2542
+Benson,Victor,1441,Clothing,2022-12-11,6,Shipped,SC,75024 Lakeview Drive,Camden,29020,1228,854-900-8198
+Blankenship,Gabriel,1442,Home & Kitchen,2022-12-23,18,Delivered,SC,75562 School Street,Bluffton,29910,761,854-724-1788
+Cunningham,Julia,1443,Pets,2022-12-13,19,Delivered,SC,49249 Harrison Street,Charleston,29401,466,864-622-4902
+Cantu,Callen,1444,Personal Care,2022-12-10,16,Delivered,AL,11793 Colonial Drive,Montgomery,36104,319,205-726-1026
+Stewart,Nylah,1445,Books,2022-12-10,13,Shipped,SC,17840 Fifth Street,Camden,29020,57,803-481-3507
+Rich,Paul,1446,Home & Kitchen,2022-12-30,9,Delivered,LA,63003 Glenwood Avenue,New Orleans,70112,1505,225-554-4336
+Monroe,Marco,1447,Electronics,2022-12-15,20,Delivered,AL,4043 Ridge Road,Mobile,36602,739,256-473-6334
+Cherry,Diego,1448,Personal Care,2022-12-12,7,Shipped,GA,76103 Jackson Street,Columbus,31908,1772,478-319-1016
+Mitchell,Ailani,1449,Pets,2022-12-26,17,Shipped,FL,97967 Pennsylvania Avenue,Birmingham,35203,335,561-641-2896
+Dunlap,Amira,1450,Pets,2022-12-09,17,In Transit,AL,83529 Vine Street,Mobile,36602,1628,251-720-8281
+Thornton,Alaina,1451,Pets,2022-12-12,18,Shipped,FL,82514 Willow Avenue,Fleming Island,32003,1618,407-851-5568
+Baker,King,1452,Personal Care,2022-12-05,9,Delivered,SC,74083 Center Street,Bluffton,29910,1683,843-221-5511
+Sierra,Dante,1453,Sports & Outdoors,2022-12-10,19,Shipped,LA,34004 Madison Avenue,Baton Rouge,70802,1586,318-571-2235
+Griffith,Kashton,1454,Books,2022-12-21,12,In Transit,NC,4981 Hamilton Street,Asheville,28801,87,252-341-2464
+James,Madison,1455,Electronics,2022-12-10,19,Delivered,LA,98202 Court Street,Baton Rouge,70802,1458,318-132-6386
+Miles,Lewis,1456,Electronics,2022-12-15,19,In Transit,FL,6822 Grove Street,Birmingham,35203,1482,727-181-3148
+Booth,Karter,1457,Sports & Outdoors,2022-12-05,1,In Transit,SC,42220 Lake Shore Drive,Greenville,29601,1453,864-916-1956
+Jordan,Fernando,1458,Sports & Outdoors,2022-12-13,14,Shipped,SC,39034 Jefferson Street,Charleston,29401,882,854-652-6913
+Baker,Marley,1459,Home & Kitchen,2022-12-01,8,Shipped,FL,92442 Terrace Avenue,Stuart,34994,1524,561-724-3348
+Sanders,Lukas,1460,Books,2022-12-20,13,Shipped,SC,74446 Smith Street,Camden,29020,968,864-971-4850
+Orozco,River,1461,Electronics,2022-12-02,5,Shipped,GA,99953 Magnolia Avenue,Columbus,31908,725,404-616-9690
+Nuñez,Mackenzie,1462,Clothing,2022-12-12,10,Delivered,NC,22017 Ridge Street,Charlotte,28202,1384,704-380-6179
+Dixon,Stevie,1463,Home & Kitchen,2022-12-30,18,Delivered,SC,50328 Center Street,Camden,29020,466,864-163-7343
+Spencer,Rosemary,1464,Personal Care,2022-12-19,2,Shipped,LA,45126 Laurel Street,Covington,70433,227,225-371-1402
+Ellison,Zayn,1465,Pets,2022-12-24,1,Shipped,AL,97359 Vine Street,Birmingham,35203,1187,334-265-4681
+Santiago,Kobe,1466,Clothing,2022-12-30,4,Delivered,LA,20632 Washington Street,Shreveport,71101,543,504-474-4213
+Bean,Cataleya,1467,Clothing,2022-12-05,7,Shipped,SC,12341 Holly Street,Camden,29020,911,843-257-7659
+Blevins,Collin,1468,Clothing,2022-12-18,2,Delivered,NC,74506 Orchard Avenue,Asheville,28801,765,336-656-5966
+Jordan,Daisy,1469,Books,2022-12-23,8,Cancelled,AL,27391 Rose Street,Montgomery,36104,201,334-331-5477
+Burton,Grady,1470,Personal Care,2022-12-23,3,Delivered,GA,63686 Center Street,Columbus,31908,445,706-437-3474
+Jacobs,Thomas,1471,Pets,2022-12-22,7,Delivered,NC,63371 School Street,Chapel Hill,27514,1558,704-387-8139
+Garza,Natalia,1472,Clothing,2022-12-06,17,Delivered,SC,21654 Madison Avenue,Greenville,29601,544,843-768-4141
+Newman,Celine,1473,Electronics,2022-12-22,12,Delivered,GA,53305 Cedar Street,Avondale Estates,30002,1649,404-432-2655
+Robbins,Alex,1474,Home & Kitchen,2022-12-08,7,Shipped,NC,74773 Oak Street,Asheville,28801,800,704-458-6503
+Sexton,Meadow,1475,Clothing,2022-12-04,15,Delivered,SC,50917 Mulberry Street,Camden,29020,1790,843-390-9952
+Ponce,Lucille,1476,Personal Care,2022-12-09,3,Delivered,GA,96857 Fourth Street,Atlanta,30303,879,706-506-3840
+Gonzales,Cairo,1477,Clothing,2022-12-02,6,Delivered,GA,41328 Liberty Street,Columbus,31901,1732,229-704-4282
+Mejia,Desmond,1478,Pets,2022-12-10,7,In Transit,GA,15624 Railroad Avenue,Avondale Estates,30002,1474,678-935-1186
+Foster,Joy,1479,Clothing,2022-12-28,17,In Transit,NC,54631 River Road,Columbia,29201,1034,704-902-2619
+Bowers,Elaina,1480,Home & Kitchen,2022-12-27,14,Delivered,SC,75669 Riverside Drive,Bluffton,29910,1185,864-151-9722
+Frazier,Ella,1481,Sports & Outdoors,2022-12-08,20,Shipped,LA,44456 Orchard Avenue,Baton Rouge,70802,846,337-857-2045
+Sparks,Christian,1482,Electronics,2022-12-29,5,Delivered,FL,42322 Laurel Street,St. Petersburg,33701,1190,407-274-5141
+Villarreal,Damian,1483,Electronics,2022-12-14,20,Delivered,LA,92876 Pennsylvania Avenue,Baton Rouge,70802,779,318-786-1226
+Acevedo,King,1484,Pets,2022-12-14,9,Delivered,NC,87135 Walnut Street,Columbia,29201,321,336-554-4411
+Lozano,Lorenzo,1485,Clothing,2022-12-22,18,Shipped,AL,8242 Sunset Avenue,Adamsville,35005,235,938-628-3090
+Mcpherson,Tucker,1486,Books,2022-12-02,13,Shipped,FL,68559 Main Street,Sunny Isles Beach,33160,1251,321-745-5284
+Blankenship,Jade,1487,Personal Care,2022-12-08,16,Delivered,AL,66866 Park Street,Adamsville,35005,1305,334-488-9125
+Riley,Amaya,1488,Clothing,2022-12-29,18,Shipped,FL,3314 Vineyard Drive,Stuart,34994,97,386-103-4090
+Bruce,Adan,1489,Electronics,2022-12-13,9,Delivered,FL,31851 Oakwood Avenue,Birmingham,35203,1533,352-710-8322
+Williams,Alessandra,1490,Books,2022-12-25,7,Delivered,FL,7265 Jefferson Street,Sunny Isles Beach,33160,399,561-980-9407
+Weiss,Gideon,1491,Clothing,2022-12-18,2,Delivered,GA,13445 Windsor Avenue,Savannah,31401,430,470-368-8986
+Bowen,Ryker,1492,Pets,2022-12-15,5,Delivered,SC,98280 Madison Avenue,Camden,29020,1237,854-139-5048
+Dorsey,Callen,1493,Sports & Outdoors,2022-12-31,2,Delivered,NC,77084 Fairview Avenue,Asheville,28801,551,336-480-6045
+Hartman,Manuel,1494,Electronics,2022-12-03,20,Delivered,GA,9094 Railroad Avenue,Bainbridge,39828,1689,770-633-3508
+Coleman,Brian,1495,Clothing,2022-12-16,1,Shipped,AL,25209 Liberty Street,Birmingham,35203,1512,938-108-6497
+Huang,Amanda,1496,Personal Care,2022-12-30,12,Shipped,LA,91477 Holly Street,Shreveport,71101,675,225-394-4236
+Jacobs,Marlee,1497,Electronics,2022-12-12,18,Shipped,GA,86434 Grove Street,Bainbridge,39828,1493,404-765-3592
+Mcpherson,Xiomara,1498,Home & Kitchen,2022-12-29,1,Delivered,LA,47659 Pinecrest Drive,Covington,70433,1382,225-502-7769
+Blevins,Logan,1499,Sports & Outdoors,2022-12-02,16,Shipped,SC,32183 Essex Street,Camden,29020,344,864-963-4216
+Kaur,Athena,1500,Sports & Outdoors,2022-12-22,9,Shipped,GA,70845 River Road,Atlanta,30303,462,762-875-5296
+Conley,Elsie,1501,Sports & Outdoors,2022-12-15,12,Delivered,LA,84603 Smith Street,Baton Rouge,70802,1166,337-118-3686
+Kramer,Emersyn,1502,Electronics,2022-12-10,9,Shipped,GA,45679 Fourth Street,Bainbridge,39828,647,706-416-7339
+Crosby,Talia,1503,Personal Care,2022-12-16,13,Shipped,AL,90030 Broadway,Birmingham,35203,1238,334-923-7411
+Carson,Charli,1504,Pets,2022-12-23,10,Delivered,SC,28305 Locust Street,Bluffton,29910,280,864-311-1974
+Duran,Emilia,1505,Electronics,2022-12-26,1,Delivered,LA,72371 High Street,Baton Rouge,70802,1246,225-548-2068
+Velasquez,Collin,1506,Clothing,2022-12-13,16,Shipped,GA,34452 Locust Street,Columbus,31908,1261,478-591-5458
+Booker,Elise,1507,Sports & Outdoors,2022-12-03,16,Delivered,AL,48541 Park Street,Montgomery,36104,1303,251-323-5297
+Sharp,Austin,1508,Sports & Outdoors,2022-12-14,17,Delivered,SC,68775 Elmwood Avenue,Bluffton,29910,1755,864-964-4538
+Harding,Walter,1509,Home & Kitchen,2022-12-02,16,Delivered,NC,54164 Laurel Street,Columbia,29201,1175,252-104-3358
+Lowery,Isabelle,1510,Electronics,2022-12-05,3,In Transit,GA,62565 State Street,Columbus,31908,1002,229-493-9327
+Huang,Lexi,1511,Books,2022-12-07,9,In Transit,LA,23832 Lincoln Street,New Orleans,70112,881,225-520-1621
+Byrd,Charlotte,1512,Personal Care,2022-12-16,10,Delivered,NC,47959 Jefferson Street,Columbia,29201,57,336-878-5669
+Peters,Selah,1513,Personal Care,2022-12-04,20,Delivered,AL,49952 High Street,Mobile,36602,1207,334-186-7193
+Estes,Genesis,1514,Home & Kitchen,2022-12-26,3,Delivered,FL,93990 Spring Street,Sunny Isles Beach,33160,1437,386-688-3789
+Dodson,Noah,1515,Personal Care,2022-12-17,13,Shipped,AL,11656 Laurel Street,Birmingham,35203,260,205-629-1825
+Chandler,Gideon,1516,Personal Care,2022-12-20,14,Cancelled,FL,43731 Glenwood Avenue,Stuart,34994,403,305-402-3232
+Kane,Nolan,1517,Books,2022-12-09,13,Shipped,GA,92870 River Road,Bainbridge,39828,1712,706-469-6200
+Logan,Kimberly,1518,Sports & Outdoors,2022-12-13,7,Cancelled,AL,55579 Jefferson Street,Mobile,36602,239,334-837-5471
+Beil,Kaleb,1519,Books,2022-12-15,11,Delivered,AL,89487 Washington Street,Montgomery,36104,1405,256-491-1729
+Gibbs,Patrick,1520,Electronics,2022-12-31,15,Shipped,FL,7097 Fifth Street,Fleming Island,32003,993,561-880-2789
+Gallagher,Lennox,1521,Pets,2022-12-02,7,Delivered,AL,10531 Windsor Avenue,Montgomery,36104,532,256-917-6934
+Landry,Liam,1522,Pets,2022-12-25,2,Shipped,NC,43001 Broad Street,Chapel Hill,27514,530,336-656-3896
+Horn,Damien,1523,Personal Care,2022-12-08,12,Cancelled,LA,41942 Lakeview Avenue,Baton Rouge,70802,1215,504-557-1253
+Black,Kimberly,1524,Clothing,2022-12-27,15,Delivered,AL,62866 Walnut Street,Mobile,36602,1693,938-515-8876
+Donovan,Denver,1525,Pets,2022-12-13,12,Cancelled,GA,32603 Jackson Street,Savannah,31401,970,470-900-7087
+Hunter,Luna,1526,Electronics,2022-12-06,10,Delivered,SC,25740 Pennsylvania Avenue,Charleston,29401,463,843-688-2604
+Stanton,Piper,1527,Books,2022-12-08,12,Delivered,GA,50409 Fairview Avenue,Avondale Estates,30002,1036,770-397-9098
+Bartlett,Manuel,1528,Sports & Outdoors,2022-12-15,4,Delivered,LA,89567 Elm Street,Baton Rouge,70802,608,225-154-9162
+Nolan,Cooper,1529,Home & Kitchen,2022-12-16,3,Shipped,FL,55898 Main Street,St. Petersburg,33701,1502,727-675-7942
+Strong,Oaklee,1530,Pets,2022-12-10,16,Delivered,GA,69000 Franklin Street,Bainbridge,39828,1510,229-875-4957
+Sellers,Gael,1531,Clothing,2022-12-11,11,Delivered,FL,90205 Meadow Lane,Fleming Island,32003,1210,727-503-1667
+Prince,Willa,1532,Personal Care,2022-12-08,1,Delivered,GA,62189 Highland Avenue,Bainbridge,39828,654,404-685-9995
+Flowers,Killian,1533,Personal Care,2022-12-31,12,Shipped,AL,5666 Spring Street,Birmingham,35203,480,334-947-9086
+Henry,Cora,1534,Home & Kitchen,2022-12-17,15,Delivered,FL,28759 Third Street,Sunny Isles Beach,33160,1504,407-427-7681
+Nash,Hayden,1535,Books,2022-12-17,3,Delivered,SC,17206 Grant Street,Charleston,29401,1667,854-538-9896
+Waller,Emerson,1536,Electronics,2022-12-02,16,In Transit,AL,90328 Willow Avenue,Montgomery,36104,423,938-966-7517
+Mahoney,Collins,1537,Clothing,2022-12-31,16,Delivered,FL,85948 Mulberry Street,St. Petersburg,33701,1425,754-241-2940
+Tate,Cora,1538,Home & Kitchen,2022-12-05,1,Shipped,GA,33408 High Street,Atlanta,30303,173,404-169-5544
+Peña,Malachi,1539,Personal Care,2022-12-18,12,Delivered,SC,30883 Lake Street,Bluffton,29910,1603,854-480-3073
+Daniels,Lilith,1540,Books,2022-12-21,15,Shipped,SC,77852 Grant Street,Bluffton,29910,250,843-672-6867
+Rivers,Kylo,1541,Personal Care,2022-12-02,20,Delivered,SC,6217 Spring Street,Camden,29020,1031,854-334-3623
+Gates,Braxton,1542,Home & Kitchen,2022-12-18,17,Delivered,FL,71369 Pine Street,Sunny Isles Beach,33160,1787,352-788-2734
+Erickson,Andre,1543,Electronics,2022-12-28,7,Cancelled,FL,12348 River Road,Palmetto,34221,1027,386-628-9337
+Chan,Cassidy,1544,Books,2022-12-13,14,Shipped,NC,94906 Orchard Avenue,Columbia,29201,1682,704-690-6065
+Odom,Annalise,1545,Clothing,2022-12-29,8,Shipped,AL,30880 Sunset Boulevard,Montgomery,36104,1595,938-985-8493
+Kelly,Gregory,1546,Pets,2022-12-18,15,Shipped,FL,36287 Spruce Street,Fleming Island,32003,1540,727-961-1885
+Wagner,Archer,1547,Pets,2022-12-10,14,In Transit,SC,14981 Maple Street,Bluffton,29910,1747,803-339-6906
+Kennedy,Hayden,1548,Books,2022-12-25,14,Shipped,LA,85299 Oak Street,Covington,70433,703,225-331-5343
+Mccall,Weston,1549,Electronics,2022-12-11,9,Cancelled,NC,96673 Madison Avenue,Asheville,28801,114,704-112-1651
+Case,Alana,1550,Pets,2022-12-30,19,In Transit,GA,55831 Maple Street,Savannah,31401,957,678-500-5098
+Castillo,Milani,1551,Clothing,2022-12-14,8,Delivered,AL,46005 Liberty Street,Birmingham,35203,900,938-748-2143
+Torres,Karson,1552,Electronics,2022-12-07,11,Shipped,AL,86495 State Street,Mobile,36602,853,334-975-4974
+Mitchell,Everett,1553,Sports & Outdoors,2022-12-16,11,Delivered,FL,23039 Laurel Street,Birmingham,35203,1452,727-109-4133
+Singh,Paxton,1554,Electronics,2022-12-05,15,Delivered,FL,42726 Riverside Drive,Palmetto,34221,212,561-808-5116
+Parra,Kingston,1555,Home & Kitchen,2022-12-17,6,Shipped,FL,66416 Jefferson Street,Palmetto,34221,113,386-596-3121
+Russo,Olivia,1556,Home & Kitchen,2022-12-20,5,Shipped,GA,32311 Main Avenue,Columbus,31901,1284,404-722-5671
+Mathews,Kendall,1557,Sports & Outdoors,2022-12-31,20,In Transit,GA,68278 Holly Street,Avondale Estates,30002,431,770-143-1560
+Tapia,Devin,1558,Pets,2022-12-24,10,Shipped,FL,77280 Pleasant Street,Sunny Isles Beach,33160,897,321-561-8510
+Roberson,Fiona,1559,Books,2022-12-03,11,Delivered,AL,7321 Lakeview Drive,Birmingham,35203,1677,256-870-2790
+Patrick,Brinley,1560,Clothing,2022-12-12,15,Cancelled,NC,59636 Fairview Avenue,Asheville,28801,1463,252-826-6354
+Macdonald,Angelina,1561,Home & Kitchen,2022-12-18,6,Delivered,NC,74579 Lake Shore Drive,Asheville,28801,1514,252-797-9465
+Hester,Alora,1562,Electronics,2022-12-19,8,In Transit,AL,22315 Sixth Street,Montgomery,36104,1353,256-169-4098
+Levy,Aspen,1563,Home & Kitchen,2022-12-23,19,Delivered,LA,40856 Third Street,Shreveport,71101,1479,504-705-7613
+Santana,Clark,1564,Books,2022-12-09,4,Delivered,GA,53720 Main Street,Columbus,31908,195,706-850-4514
+Deleon,Daleyza,1565,Home & Kitchen,2022-12-14,19,Delivered,LA,23483 School Street,New Orleans,70112,366,225-757-9411
+Harrell,Esteban,1566,Personal Care,2022-12-29,19,Delivered,AL,42627 Spruce Street,Adamsville,35005,1593,334-232-9334
+Ashley,Zaire,1567,Electronics,2022-12-19,13,In Transit,GA,42238 School Street,Columbus,31908,674,404-676-5412
+Miranda,Diego,1568,Home & Kitchen,2022-12-14,5,Delivered,FL,58736 Valley Road,Stuart,34994,1077,305-610-8578
+Potter,Niko,1569,Clothing,2022-12-23,13,Shipped,FL,63568 Second Street,Palmetto,34221,1742,407-817-5947
+Wilkins,Maximus,1570,Books,2022-12-21,15,Shipped,AL,98931 Maple Street,Mobile,36602,1216,205-867-1993
+Watts,Paris,1571,Pets,2022-12-27,4,Shipped,AL,80948 Division Street,Montgomery,36104,309,938-384-1109
+Hammond,Rosie,1572,Home & Kitchen,2022-12-27,4,Shipped,NC,66984 Colonial Drive,Asheville,28801,94,704-845-2027
+Pham,Mackenzie,1573,Clothing,2022-12-06,20,Delivered,NC,78232 Division Street,Chapel Hill,27514,1389,336-826-2568
+Keller,Aylin,1574,Books,2022-12-12,2,In Transit,LA,84162 Country Club Road,Baton Rouge,70802,997,318-586-9597
+Nuñez,Juliana,1575,Home & Kitchen,2022-12-17,19,Delivered,AL,66687 State Street,Mobile,36602,563,334-568-8270
+Ramirez,Robert,1576,Electronics,2022-12-09,5,Delivered,GA,12322 State Street,Savannah,31401,890,678-187-1017
+Reeves,Ezequiel,1577,Sports & Outdoors,2022-12-02,11,Shipped,GA,41664 Second Street,Atlanta,30303,1602,229-513-9015
+Escobar,Dahlia,1578,Home & Kitchen,2022-12-04,9,Cancelled,AL,52780 Washington Street,Montgomery,36104,103,256-198-3891
+Sanchez,Maya,1579,Sports & Outdoors,2022-12-07,6,In Transit,FL,57921 Pinecrest Drive,St. Petersburg,33701,415,386-936-9940
+Cardenas,Ayla,1580,Personal Care,2022-12-09,16,Delivered,LA,77967 Vineyard Drive,Shreveport,71101,918,337-633-3264
+Wilson,Santiago,1581,Books,2022-12-22,8,Shipped,GA,14253 Elmwood Drive,Savannah,31401,407,478-267-9974
+Blevins,Alejandro,1582,Sports & Outdoors,2022-12-28,7,Shipped,LA,26361 Forest Avenue,New Orleans,70112,704,337-225-6865
+Leon,Elliott,1583,Books,2022-12-06,14,Shipped,NC,57144 Cedar Street,Charlotte,28202,588,336-770-7844
+Cooper,Nasir,1584,Personal Care,2022-12-01,7,Delivered,GA,82662 Walnut Avenue,Savannah,31401,1058,762-307-5123
+Norman,Calvin,1585,Pets,2022-12-19,4,Cancelled,GA,20507 Locust Street,Bainbridge,39828,692,404-733-8581
+Cherry,Aspen,1586,Home & Kitchen,2022-12-27,18,Cancelled,SC,70981 Central Avenue,Charleston,29401,1639,854-213-1708
+Ellis,Esme,1587,Sports & Outdoors,2022-12-18,10,Delivered,FL,74621 Country Club Road,Palmetto,34221,1181,321-930-6461
+Vega,Blake,1588,Books,2022-12-02,5,Delivered,GA,63913 Valley View Drive,Columbus,31901,329,762-827-9216
+English,Oakley,1589,Electronics,2022-12-05,19,In Transit,LA,15904 Second Street,Baton Rouge,70802,1199,337-121-7363
+Costa,Brynlee,1590,Electronics,2022-12-22,19,Shipped,AL,2934 Oak Street,Birmingham,35203,489,938-441-7664
+Francis,Amir,1591,Personal Care,2022-12-14,7,Delivered,LA,16945 Valley Road,Baton Rouge,70802,391,337-975-8730
+Wallace,Reid,1592,Clothing,2022-12-25,9,Cancelled,SC,95285 Elmwood Lane,Greenville,29601,187,854-523-8540
+Johnston,Rebecca,1593,Sports & Outdoors,2022-12-02,2,Delivered,LA,17589 Oak Street,Shreveport,71101,1100,504-220-9979
+Palmer,Zuri,1594,Pets,2022-12-20,11,Shipped,SC,75016 Sunset Drive,Charleston,29401,1437,843-296-5793
+Piñeda,Kyler,1595,Sports & Outdoors,2022-12-06,3,Shipped,AL,37430 Elmwood Lane,Montgomery,36104,389,938-718-5523
+Barrera,Lennox,1596,Books,2022-12-19,19,Cancelled,LA,65671 State Street,Baton Rouge,70802,696,225-255-5031
+English,Holden,1597,Clothing,2022-12-23,12,Shipped,AL,8436 Riverside Drive,Mobile,36602,794,256-491-2269
+Stafford,Elaina,1598,Sports & Outdoors,2022-12-21,2,Shipped,FL,74439 Valley Road,Birmingham,35203,798,407-617-8128
+Smith,Ari,1599,Clothing,2022-12-28,5,Delivered,GA,42265 Ash Street,Columbus,31908,1009,770-592-1227
+James,Parker,1600,Books,2022-12-15,7,In Transit,SC,24914 Country Club Road,Camden,29020,1215,864-561-1954
+Hancock,Norah,1601,Home & Kitchen,2022-12-08,20,Shipped,LA,38963 Railroad Avenue,Covington,70433,1665,504-489-8071
+Coleman,Ruby,1602,Personal Care,2022-12-27,16,Delivered,AL,36118 Ash Street,Montgomery,36104,667,205-940-8328
+Boyle,Morgan,1603,Books,2022-12-17,9,Delivered,AL,50327 University Avenue,Birmingham,35203,1180,334-680-6940
+Whitehead,Ayla,1604,Sports & Outdoors,2022-12-11,7,Shipped,AL,20612 Walnut Avenue,Adamsville,35005,485,334-527-8316
+Bernal,Koa,1605,Sports & Outdoors,2022-12-04,18,Shipped,AL,6251 University Avenue,Adamsville,35005,301,256-448-8037
+Walsh,Patrick,1606,Books,2022-12-27,4,Shipped,LA,15644 Park Street,Baton Rouge,70802,1218,337-138-6118
+Portillo,Logan,1607,Home & Kitchen,2022-12-09,7,Delivered,GA,34581 Cedar Street,Savannah,31401,121,770-266-7082
+Torres,Jensen,1608,Clothing,2022-12-20,13,Shipped,NC,65633 Broad Street,Columbia,29201,680,252-347-2611
+Kline,Lana,1609,Books,2022-12-12,5,In Transit,LA,16893 Ash Street,Shreveport,71101,550,225-750-5221
+Ahmed,Milani,1610,Personal Care,2022-12-09,14,In Transit,LA,75877 Main Street,Shreveport,71101,1065,318-506-8747
+Weber,Laura,1611,Pets,2022-12-24,3,Cancelled,AL,23919 Elmwood Avenue,Montgomery,36104,387,938-647-2578
+Conner,Arthur,1612,Pets,2022-12-23,6,Delivered,SC,87785 Hillcrest Avenue,Charleston,29401,317,843-639-6842
+Reeves,Jayden,1613,Clothing,2022-12-31,6,Shipped,SC,58692 Rose Street,Bluffton,29910,802,803-164-1196
+Ávila,Karson,1614,Clothing,2022-12-31,7,Cancelled,AL,37082 West Street,Birmingham,35203,322,205-917-3504
+Shepherd,Charli,1373,Sports & Outdoors,2022-12-03,17,Shipped,SC,81712 Main Street,Charleston,29401,579,803-759-6965
+Peterson,Armani,1615,Home & Kitchen,2022-12-03,3,Shipped,AL,90237 Spring Street,Birmingham,35203,471,251-839-7995
+Oliver,Hattie,1616,Sports & Outdoors,2022-12-03,3,In Transit,FL,74239 Chestnut Lane,Stuart,34994,527,727-988-4280
+Barajas,Teagan,1617,Sports & Outdoors,2022-12-30,13,Shipped,NC,39482 Maple Street,Chapel Hill,27514,154,336-137-4969
+Duran,Amara,1618,Personal Care,2022-12-31,17,Delivered,NC,91478 Center Street,Chapel Hill,27514,1546,704-804-4740
+Poole,Damian,1619,Sports & Outdoors,2022-12-16,2,Delivered,AL,20849 Chestnut Street,Mobile,36602,1542,938-989-4105
+Harvey,Lane,1620,Books,2022-12-14,3,Cancelled,FL,79341 Sunset Boulevard,Palmetto,34221,319,754-330-2387
+Campbell,Angela,1621,Sports & Outdoors,2022-12-26,15,Cancelled,NC,27451 Smith Street,Chapel Hill,27514,99,704-359-9658
+Stuart,Molly,1622,Books,2022-12-07,19,Shipped,NC,8180 Holly Street,Asheville,28801,931,704-974-7317
+Blackwell,Adalynn,1623,Electronics,2022-12-16,8,Delivered,SC,72362 Meadow Lane,Greenville,29601,1596,864-126-1425
+Burgess,Alexandria,1624,Books,2022-12-17,11,Shipped,GA,43857 Grove Street,Savannah,31401,445,762-424-8114
+Barajas,Avery,1625,Electronics,2022-12-27,10,Cancelled,LA,81264 Ash Street,New Orleans,70112,514,337-888-7505
+Frost,Judah,1626,Books,2022-12-04,9,Shipped,NC,98454 Elmwood Lane,Asheville,28801,803,704-820-9567
+Krueger,Kaia,1627,Sports & Outdoors,2022-12-30,9,Delivered,GA,30707 Elmwood Avenue,Avondale Estates,30002,41,229-514-4270
+Trejo,Josephine,1628,Home & Kitchen,2022-12-04,16,Shipped,NC,92074 Railroad Avenue,Columbia,29201,897,704-202-7929
+Bentley,Abel,1629,Sports & Outdoors,2022-12-03,15,Shipped,AL,19573 Pleasant Street,Mobile,36602,1159,938-462-9725
+Flowers,Kali,1630,Books,2022-12-17,15,Shipped,AL,23826 Glenwood Avenue,Birmingham,35203,1380,256-312-8410
+Elliott,Cooper,1631,Personal Care,2022-12-14,1,Delivered,AL,57300 Locust Street,Montgomery,36104,794,938-373-9655
+Combs,Grady,1632,Books,2022-12-02,9,Delivered,AL,55362 Park Avenue,Adamsville,35005,314,334-705-7364
+Landry,Dream,1633,Sports & Outdoors,2022-12-17,5,Shipped,SC,62128 Pinecrest Drive,Charleston,29401,1454,864-859-9500
+Haley,Nathan,1634,Home & Kitchen,2022-12-23,18,Shipped,LA,76315 Valley Road,New Orleans,70112,1063,318-924-8097
+Soto,Rory,1635,Pets,2022-12-27,1,Delivered,LA,64349 Second Street,Baton Rouge,70802,566,318-766-5900
+Pierce,Bianca,1636,Clothing,2022-12-25,20,Cancelled,FL,50702 River Road,Stuart,34994,391,727-130-9634
+Cisneros,Garrett,1637,Personal Care,2022-12-03,7,Shipped,AL,89186 Meadow Lane,Adamsville,35005,1046,256-797-9793
+Zimmerman,Kaleb,1638,Home & Kitchen,2022-12-30,14,In Transit,NC,19543 Park Street,Columbia,29201,1065,704-208-1552
+Hahn,Stevie,1639,Electronics,2022-12-03,12,Cancelled,SC,96156 Park Place,Bluffton,29910,1268,803-467-7465
+Gibson,Romeo,1640,Electronics,2022-12-02,12,Shipped,NC,90146 Locust Street,Chapel Hill,27514,1475,704-411-4162
+Rodriguez,August,1641,Books,2022-12-04,13,Shipped,GA,40489 Lake Street,Columbus,31901,1237,678-499-5631
+Wilkinson,Maeve,1642,Personal Care,2022-12-04,19,In Transit,LA,90855 River Road,Covington,70433,1120,318-597-2593
+Combs,Alonzo,1643,Clothing,2022-12-20,8,In Transit,GA,48981 Park Place,Atlanta,30303,704,678-127-4156
+Archer,Layla,1644,Books,2022-12-31,1,Shipped,SC,4028 Walnut Avenue,Charleston,29401,1134,854-660-1512
+Rocha,Londyn,1645,Pets,2022-12-31,2,Delivered,GA,18148 Division Street,Avondale Estates,30002,1523,470-615-7868
+Berry,Miracle,1646,Books,2022-12-20,5,In Transit,FL,66308 Broadway,Fleming Island,32003,390,321-898-3020
+Mcintosh,Luna,1647,Clothing,2022-12-05,13,Delivered,LA,54452 Highland Avenue,Covington,70433,921,225-806-6843
+Daugherty,Noelle,1648,Electronics,2022-12-07,5,Delivered,NC,46760 Willow Avenue,Chapel Hill,27514,1106,252-524-9165
+Newton,Alessia,1649,Clothing,2022-12-17,17,Shipped,LA,66497 Country Club Road,Covington,70433,980,318-606-5391
+Livingston,Chloe,1650,Home & Kitchen,2022-12-03,7,Shipped,SC,71844 Sunset Avenue,Camden,29020,1159,803-153-4686
+Stanley,Maxwell,1651,Electronics,2022-12-15,6,Cancelled,NC,87404 Pennsylvania Avenue,Charlotte,28202,155,336-226-4786
+Hunter,Leon,1652,Pets,2022-12-17,12,Delivered,SC,23508 Riverside Drive,Camden,29020,770,803-896-7715
+Shepherd,Hayden,1653,Home & Kitchen,2022-12-16,14,In Transit,AL,5463 Division Street,Birmingham,35203,1714,334-316-7650
+Serrano,Nora,1654,Pets,2022-12-01,9,Delivered,GA,52401 Willow Avenue,Atlanta,30303,129,404-638-5124
+Fletcher,Lyra,1655,Home & Kitchen,2022-12-16,2,Delivered,AL,35540 Maple Street,Montgomery,36104,212,251-523-6030
+Santiago,Charli,1656,Electronics,2022-12-04,11,Shipped,NC,67734 Cherry Lane,Charlotte,28202,417,252-289-8846
+Leal,Enzo,1657,Personal Care,2022-12-23,17,Delivered,GA,93518 West Street,Avondale Estates,30002,1075,678-403-1165
+Fitzgerald,Brooke,1658,Home & Kitchen,2022-12-26,16,Cancelled,SC,95767 Lakeview Drive,Charleston,29401,237,843-107-5088
+Robertson,Finn,1659,Clothing,2022-12-30,7,Shipped,LA,55260 Pine Street,New Orleans,70112,167,318-820-1603
+Goodwin,Brody,1660,Personal Care,2022-12-04,14,Shipped,FL,30361 Cedar Street,Fleming Island,32003,48,754-582-4530
+Nuñez,Kyle,1661,Electronics,2022-12-02,18,In Transit,AL,72542 Oak Street,Adamsville,35005,318,938-168-6681
+Weber,Lennox,1662,Books,2022-12-12,2,Delivered,FL,61694 Mulberry Street,Fleming Island,32003,1736,321-650-6528
+Maynard,Chloe,1663,Electronics,2022-12-15,3,In Transit,SC,40590 Willow Avenue,Bluffton,29910,1747,843-353-4502
+Beil,Jasper,1664,Personal Care,2022-12-01,13,Delivered,FL,75785 Center Street,Fleming Island,32003,1425,407-324-9930
+Lee,Colin,1665,Personal Care,2022-12-13,3,Delivered,LA,82632 Church Street,Covington,70433,1239,225-397-7460
+Sandoval,Kash,1666,Home & Kitchen,2022-12-30,2,Delivered,AL,41503 Colonial Drive,Birmingham,35203,360,938-657-6758
+Wolfe,Amari,1667,Home & Kitchen,2022-12-08,15,Delivered,GA,62225 Vineyard Drive,Bainbridge,39828,183,770-167-5174
+Molina,Gideon,1668,Electronics,2022-12-30,11,Shipped,SC,39432 Laurel Street,Bluffton,29910,1465,864-762-7726
+Walton,Rosie,1669,Electronics,2022-12-09,19,Shipped,GA,18219 Main Avenue,Savannah,31401,666,706-246-5598
+Rush,Heidi,1670,Electronics,2022-12-02,15,In Transit,GA,80736 Ridge Road,Bainbridge,39828,1153,762-715-3811
+Harrison,Alison,1671,Clothing,2022-12-17,3,Shipped,AL,70473 Pleasant Street,Mobile,36602,486,334-469-6822
+Anderson,Santino,1672,Personal Care,2022-12-28,1,Shipped,AL,4652 Pine Street,Montgomery,36104,562,205-459-1238
+Henderson,Armani,1673,Pets,2022-12-03,6,Delivered,NC,22552 Chestnut Lane,Asheville,28801,949,336-481-9856
+Dawson,Ismael,1674,Clothing,2022-12-08,5,Shipped,FL,84159 Oakwood Avenue,Fleming Island,32003,786,321-319-6551
+Porter,Felix,1675,Pets,2022-12-18,3,Delivered,AL,37974 Orchard Avenue,Adamsville,35005,816,334-459-6751
+Singleton,Bradley,1676,Home & Kitchen,2022-12-18,15,Shipped,SC,1387 Valley View Drive,Camden,29020,179,803-335-2097
+Castro,Gregory,1677,Sports & Outdoors,2022-12-13,6,Shipped,FL,9906 Oak Street,Stuart,34994,577,352-281-5957
+Riley,Brooklynn,1678,Clothing,2022-12-28,2,Shipped,NC,40260 Chestnut Avenue,Charlotte,28202,1727,336-577-6408
+Kim,Ari,1679,Books,2022-12-08,6,Delivered,AL,28453 Madison Street,Mobile,36602,764,251-287-4852
+Guerra,Briella,1680,Clothing,2022-12-17,20,In Transit,AL,17581 Sunset Avenue,Mobile,36602,286,334-882-8091
+Fischer,Jeremiah,1681,Personal Care,2022-12-02,13,Cancelled,GA,18594 Vine Street,Bainbridge,39828,1646,770-810-2944
+Collins,Alaya,1682,Home & Kitchen,2022-12-20,17,Cancelled,GA,41424 Elmwood Drive,Columbus,31908,1798,404-548-4320
+Small,Ada,1683,Electronics,2022-12-31,8,Delivered,NC,88488 Park Place,Chapel Hill,27514,1511,336-253-8171
+Perez,Aylin,1684,Clothing,2022-12-21,1,In Transit,GA,21620 Park Street,Columbus,31908,598,706-330-2908
+Greene,Chance,1685,Clothing,2022-12-14,12,Delivered,NC,32333 Lake Street,Asheville,28801,1145,336-845-3118
+Ballard,Rylie,1686,Pets,2022-12-24,3,Delivered,NC,97469 Colonial Drive,Charlotte,28202,1017,704-898-8882
+Nguyen,Kimberly,1687,Electronics,2022-12-19,3,Shipped,LA,60277 Park Street,Baton Rouge,70802,854,337-940-4275
+Alfaro,Kobe,1688,Electronics,2022-12-18,1,Delivered,LA,88574 Railroad Avenue,Baton Rouge,70802,764,225-565-2265
+Hensley,Sienna,1689,Home & Kitchen,2022-12-09,13,Delivered,GA,48933 Chestnut Street,Savannah,31401,681,706-315-6225
+Stevenson,Landon,1690,Personal Care,2022-12-13,7,Delivered,LA,85477 Essex Street,Baton Rouge,70802,501,318-236-2597
+Pruitt,Jax,1691,Personal Care,2022-12-04,8,Shipped,AL,12654 Cherry Lane,Mobile,36602,1615,251-287-3822
+Best,Aubrey,1692,Books,2022-12-20,18,Shipped,NC,50000 Maple Street,Charlotte,28202,825,704-369-1493
+Barrett,Emanuel,1693,Pets,2022-12-28,20,Shipped,SC,75175 Lakeview Drive,Charleston,29401,737,803-987-4384
+Sandoval,Santiago,1694,Sports & Outdoors,2022-12-28,20,In Transit,AL,9543 Broadway,Adamsville,35005,1267,251-689-6217
+Kaur,Matteo,1695,Personal Care,2022-12-15,20,Delivered,FL,14501 Cedar Street,Birmingham,35203,120,407-106-9412
+Barker,Richard,1696,Home & Kitchen,2022-12-02,5,Shipped,FL,12304 State Street,Fleming Island,32003,239,407-750-7414
+Porter,Frances,1697,Electronics,2022-12-14,6,Shipped,GA,5296 Main Street,Atlanta,30303,965,478-857-6459
+Brown,Isabel,1698,Electronics,2022-12-18,3,Shipped,LA,28446 Orchard Avenue,New Orleans,70112,540,225-379-7518
+Strickland,Stephanie,1699,Personal Care,2022-12-24,6,Delivered,FL,72209 Main Street,Birmingham,35203,442,305-314-4156
+Nash,Callie,1700,Electronics,2022-12-03,5,Shipped,LA,30550 Elmwood Avenue,Shreveport,71101,717,318-537-6882
+Brandt,Legacy,1701,Electronics,2022-12-15,9,In Transit,SC,12587 Sunset Boulevard,Bluffton,29910,1260,864-215-2519
+Durham,William,1702,Home & Kitchen,2022-12-15,19,Delivered,GA,90892 Elmwood Avenue,Atlanta,30303,357,762-127-4412
+Myers,Morgan,1703,Personal Care,2022-12-17,13,Shipped,GA,72992 North Street,Atlanta,30303,1188,229-964-6482
+Brewer,Aubrey,1704,Electronics,2022-12-31,5,Cancelled,AL,73494 West Street,Montgomery,36104,773,251-158-5616
+Lucas,Rory,1705,Sports & Outdoors,2022-12-09,12,Shipped,NC,49950 Willow Avenue,Chapel Hill,27514,334,252-685-7265
+Mercado,Leonel,1706,Personal Care,2022-12-06,8,Shipped,NC,61297 Lakeview Avenue,Asheville,28801,1676,336-229-5554
+Bates,Anya,1707,Clothing,2022-12-19,11,Delivered,GA,30309 Laurel Street,Atlanta,30303,1763,470-184-6202
+Livingston,Annie,1708,Personal Care,2022-12-11,5,Delivered,LA,68070 Ridge Road,Covington,70433,675,337-180-2520
+Sweeney,Willa,1709,Clothing,2022-12-09,14,Delivered,LA,8885 Center Street,Baton Rouge,70802,1845,337-174-8040
+Hail,Jeremiah,1710,Electronics,2022-12-18,4,Delivered,NC,36679 Broadway,Columbia,29201,602,336-603-9508
+Case,Valeria,1711,Home & Kitchen,2022-12-25,15,Shipped,LA,7009 Spring Street,Shreveport,71101,154,337-910-1025
+Frazier,Genesis,1712,Electronics,2022-12-17,19,Delivered,SC,73829 Spring Street,Charleston,29401,1535,864-253-1598
+Enriquez,Asa,1713,Books,2022-12-04,18,Shipped,AL,84343 Grant Street,Montgomery,36104,1311,938-173-9808
+Ayers,Amaya,1714,Electronics,2022-12-08,9,Shipped,GA,55812 Division Street,Columbus,31901,1021,770-277-1598
+Ramsey,Hank,1715,Personal Care,2022-12-24,6,Shipped,GA,87152 Chestnut Street,Atlanta,30303,1476,478-920-5969
+Dixon,Kylo,1716,Personal Care,2022-12-30,20,Shipped,GA,65345 Colonial Drive,Bainbridge,39828,567,678-278-5583
+Kent,Kaia,1717,Books,2022-12-26,12,Shipped,AL,76291 Vineyard Drive,Adamsville,35005,1191,205-947-9669
+Castro,Nico,1718,Clothing,2022-12-19,11,Shipped,NC,56918 Park Avenue,Asheville,28801,113,252-294-3877
+Richardson,Marlee,1719,Clothing,2022-12-30,8,Shipped,GA,20129 Sunset Avenue,Savannah,31401,865,678-528-5931
+Escobar,Madelyn,1720,Personal Care,2022-12-02,10,Delivered,FL,22249 Spring Street,Stuart,34994,852,321-981-3983
+Carpenter,Bodie,1721,Electronics,2022-12-01,15,Delivered,NC,40932 Jefferson Street,Asheville,28801,1638,336-538-6177
+Mclean,Thea,1722,Sports & Outdoors,2022-12-10,7,Shipped,GA,1053 Mulberry Street,Columbus,31901,1466,678-700-8047
+Duncan,Maryam,1723,Personal Care,2022-12-08,14,Delivered,SC,31685 North Street,Greenville,29601,1282,854-525-6737
+Reed,Haven,1724,Home & Kitchen,2022-12-26,20,Cancelled,FL,30617 Lake Street,St. Petersburg,33701,1708,727-411-2835
+Montgomery,Eden,1725,Electronics,2022-12-17,12,Cancelled,AL,82052 Walnut Avenue,Birmingham,35203,1168,938-608-6573
+Esquivel,Matias,1726,Home & Kitchen,2022-12-12,13,Cancelled,GA,93640 Jefferson Street,Columbus,31908,398,229-999-9189
+Murray,Kyson,1727,Books,2022-12-20,18,Shipped,GA,99660 Division Street,Avondale Estates,30002,1284,470-693-7709
+Joseph,Fernanda,1728,Books,2022-12-30,8,Delivered,GA,84671 Lakeview Drive,Savannah,31401,1769,770-681-3044
+Rich,Brooklynn,1729,Pets,2022-12-28,13,Shipped,AL,1474 Fifth Street,Montgomery,36104,378,334-351-9093
+Weiss,Ivan,1730,Pets,2022-12-12,6,Shipped,SC,28618 Hillcrest Avenue,Charleston,29401,1351,854-890-6472
+Burgess,Dominic,1731,Sports & Outdoors,2022-12-23,8,Delivered,SC,83581 Pinecrest Drive,Greenville,29601,1381,864-862-8328
+Horn,Renata,1732,Home & Kitchen,2022-12-27,3,Cancelled,NC,1026 Broadway,Chapel Hill,27514,1383,336-224-1198
+Yu,Briggs,1733,Books,2022-12-24,13,Delivered,LA,1856 Broad Street,Covington,70433,1719,504-173-4813
+Huynh,Sarah,1734,Home & Kitchen,2022-12-31,9,In Transit,AL,86475 Park Avenue,Adamsville,35005,785,205-330-7772
+Berger,Jason,1735,Personal Care,2022-12-23,9,Shipped,FL,53613 Magnolia Avenue,Birmingham,35203,1361,727-951-1020
+Wong,Sage,1736,Personal Care,2022-12-21,9,Cancelled,FL,89772 Glenwood Avenue,Fleming Island,32003,1328,407-835-8649
+Silva,Beau,1737,Personal Care,2022-12-08,1,Delivered,LA,20465 Lakeview Avenue,Shreveport,71101,224,318-111-9435
+Lin,Stevie,1738,Clothing,2022-12-23,1,Shipped,SC,67915 Third Street,Charleston,29401,1443,864-897-7675
+Beard,Garrett,1739,Clothing,2022-12-11,3,Shipped,FL,40265 Ridge Street,Sunny Isles Beach,33160,1756,321-957-8309
+Ramsey,Leland,1740,Personal Care,2022-12-04,20,In Transit,SC,28920 Lake Street,Charleston,29401,515,843-486-9046
+Fletcher,Maximus,1741,Electronics,2022-12-31,9,Delivered,NC,32786 Jefferson Street,Chapel Hill,27514,457,252-357-2172
+Frank,Camilo,1742,Books,2022-12-30,19,Shipped,GA,5484 Main Avenue,Avondale Estates,30002,127,706-305-1208
+Wong,Zyaire,1743,Clothing,2022-12-17,17,Shipped,AL,78672 Chestnut Street,Montgomery,36104,1674,256-830-8805
+Shields,Eduardo,1744,Clothing,2022-12-30,14,Delivered,LA,60481 Lake Street,New Orleans,70112,392,225-902-1099
+Zuniga,Edwin,1745,Personal Care,2022-12-11,4,Shipped,LA,40652 University Avenue,Baton Rouge,70802,857,318-753-2896
+Wong,Julian,1746,Personal Care,2022-12-28,15,Delivered,FL,41238 Main Street,Fleming Island,32003,1844,386-275-9456
+Pacheco,Erick,1747,Clothing,2022-12-07,12,Shipped,FL,81198 Central Avenue,Birmingham,35203,1382,305-690-5158
+Donovan,Austin,1748,Clothing,2022-12-08,1,In Transit,AL,80052 Fifth Street,Birmingham,35203,176,256-816-7678
+Manning,Blake,1749,Books,2022-12-23,8,Shipped,FL,77649 State Street,Birmingham,35203,312,407-284-5073
+Ochoa,Connor,1750,Electronics,2022-12-24,8,Delivered,LA,27864 University Avenue,New Orleans,70112,371,337-606-9612
+Kramer,Xander,1751,Home & Kitchen,2022-12-19,2,Shipped,LA,55402 Hillcrest Avenue,New Orleans,70112,1334,318-157-3849
+Sandoval,Raelynn,1752,Pets,2022-12-09,1,Shipped,SC,70996 Broadway,Bluffton,29910,329,843-252-1719
+Hess,Ronin,1753,Sports & Outdoors,2022-12-29,7,Shipped,NC,16456 School Street,Chapel Hill,27514,1053,336-393-5020
+Gregory,Kairo,1754,Home & Kitchen,2022-12-21,5,In Transit,SC,37732 Vine Street,Bluffton,29910,194,803-161-3475
+Randolph,Pablo,1755,Sports & Outdoors,2022-12-10,16,Shipped,AL,55408 Chestnut Lane,Adamsville,35005,69,205-808-2586
+Kaur,Frederick,1756,Home & Kitchen,2022-12-02,17,In Transit,SC,5958 Willow Street,Camden,29020,220,843-452-9153
+Skinner,William,1757,Personal Care,2022-12-30,19,Delivered,LA,37035 Elmwood Drive,New Orleans,70112,436,225-702-1136
+Bennett,Josue,1758,Home & Kitchen,2022-12-25,11,Shipped,LA,91280 Main Street,Shreveport,71101,169,225-837-2680
+Carter,Brian,1759,Electronics,2022-12-06,16,Cancelled,FL,45368 Jackson Street,Sunny Isles Beach,33160,263,754-635-4815
+Hamilton,Asher,1760,Electronics,2022-12-18,12,Cancelled,SC,27584 Cedar Street,Bluffton,29910,767,864-604-1783
+Velazquez,Dawson,1761,Clothing,2022-12-19,18,Delivered,FL,66465 Lake Street,Fleming Island,32003,1134,561-200-8978
+Russell,Elle,1762,Pets,2022-12-13,16,Delivered,FL,53566 Pennsylvania Avenue,Birmingham,35203,334,561-132-2166
+Case,Jeremiah,1763,Pets,2022-12-16,4,Shipped,NC,21454 University Avenue,Charlotte,28202,439,336-725-1406
+Combs,Alison,1764,Personal Care,2022-12-18,3,Shipped,NC,69622 Division Street,Charlotte,28202,1278,704-144-1654
+Medina,Cooper,1765,Personal Care,2022-12-10,7,Shipped,LA,66933 Washington Street,Shreveport,71101,407,225-429-5431
+Jimenez,Kamila,1766,Clothing,2022-12-21,1,Shipped,AL,4177 Elm Avenue,Mobile,36602,683,205-977-1890
+Sexton,Penelope,1767,Pets,2022-12-30,2,Shipped,FL,28860 Jackson Street,Sunny Isles Beach,33160,411,386-708-8152
+Singh,Asa,1768,Sports & Outdoors,2022-12-09,18,Delivered,FL,72138 State Street,Fleming Island,32003,958,561-196-6272
+Valentine,Koda,1769,Books,2022-12-04,15,Delivered,LA,1287 Rose Street,New Orleans,70112,543,337-269-5898
+Chang,Esmeralda,1770,Books,2022-12-17,14,Shipped,AL,36273 Sunset Drive,Birmingham,35203,573,205-920-6180
+Crosby,Alayna,1771,Home & Kitchen,2022-12-04,13,Shipped,SC,72774 Laurel Street,Camden,29020,1151,843-126-4685
+Herrera,Collins,1772,Clothing,2022-12-02,8,Shipped,SC,21231 Valley Road,Bluffton,29910,199,864-333-3005
+Orozco,Judah,1773,Personal Care,2022-12-07,12,Cancelled,GA,49550 University Avenue,Avondale Estates,30002,1495,470-310-7745
+Hahn,Koda,1774,Electronics,2022-12-30,10,Shipped,AL,76689 Cherry Street,Birmingham,35203,589,205-173-6160
+Haley,Haisley,1775,Pets,2022-12-30,18,Delivered,SC,55234 Highland Drive,Greenville,29601,137,803-384-5193
+Stephens,Taylor,1776,Home & Kitchen,2022-12-10,2,In Transit,GA,1915 Elmwood Avenue,Avondale Estates,30002,1151,470-630-7541
+Odom,Addison,1777,Books,2022-12-11,6,In Transit,LA,64525 Sunset Boulevard,Shreveport,71101,1106,504-268-3804
+Delacruz,Zayne,1778,Home & Kitchen,2022-12-26,16,Delivered,SC,5792 Willow Street,Camden,29020,1599,843-104-5802
+Alvarez,Seth,1779,Pets,2022-12-14,1,Delivered,GA,32195 North Street,Columbus,31901,1391,770-339-9653
+Gross,Gianna,1780,Clothing,2022-12-25,19,Shipped,NC,61370 Broadway,Columbia,29201,945,252-418-2870
+Pitts,Isaiah,1781,Personal Care,2022-12-12,9,Cancelled,FL,27319 Terrace Avenue,St. Petersburg,33701,1758,321-369-8723
+Pearson,Isabella,1782,Electronics,2022-12-05,15,Shipped,AL,72946 Sunset Boulevard,Mobile,36602,575,205-404-3654
+Ellis,Bo,1783,Personal Care,2022-12-03,12,Shipped,AL,4553 High Street,Montgomery,36104,1226,256-793-2797
+Little,Adan,1784,Electronics,2022-12-29,15,Shipped,AL,20015 Madison Street,Mobile,36602,433,938-842-7713
+Townsend,Baker,1785,Books,2022-12-18,16,Cancelled,FL,16919 Grove Street,St. Petersburg,33701,997,727-666-4627
+Travis,Micah,1786,Home & Kitchen,2022-12-29,13,Shipped,AL,4316 Cherry Lane,Mobile,36602,1469,256-422-6102
+Frazier,Atticus,1787,Personal Care,2022-12-01,16,Delivered,FL,92327 Pennsylvania Avenue,Palmetto,34221,1644,561-284-6616
+Rowland,Gavin,1788,Sports & Outdoors,2022-12-28,14,Delivered,SC,69838 Spring Street,Bluffton,29910,340,864-551-4704
+Wheeler,Sullivan,1789,Electronics,2022-12-21,20,Delivered,NC,34908 Railroad Avenue,Chapel Hill,27514,1595,704-957-3923
+Kline,Emmett,1790,Personal Care,2022-12-05,2,Shipped,AL,50686 Chestnut Street,Montgomery,36104,920,205-618-4293
+Padilla,Raymond,1791,Electronics,2022-12-30,4,Shipped,SC,15784 Cherry Lane,Charleston,29401,685,843-987-1399
+Sims,Selena,1792,Personal Care,2022-12-25,2,Delivered,GA,69458 High Street,Columbus,31901,680,762-791-4031
+Palacios,Luna,1793,Books,2022-12-05,2,Shipped,NC,17002 Rose Street,Columbia,29201,1544,704-324-2675
+Hall,Fernando,1794,Clothing,2022-12-02,12,Delivered,FL,86183 State Street,Palmetto,34221,1708,386-722-2695
+Barron,Rhys,1795,Books,2022-12-08,9,Delivered,SC,50471 Fifth Street,Bluffton,29910,1030,843-945-5277
+Rocha,Alicia,1796,Pets,2022-12-29,11,Delivered,NC,12692 Highland Avenue,Charlotte,28202,1394,252-598-9194
+O’Connell,Amir,1797,Home & Kitchen,2022-12-15,4,Cancelled,SC,34822 Willow Street,Charleston,29401,331,854-281-4986
+Buck,Evelynn,1798,Home & Kitchen,2022-12-02,1,Delivered,AL,7187 Vine Street,Adamsville,35005,1862,251-909-2631
+Carroll,Braxton,1799,Electronics,2022-12-06,20,Shipped,NC,61042 Broadway,Columbia,29201,886,704-124-1673
+Reyna,Greyson,1800,Sports & Outdoors,2022-12-31,3,Delivered,FL,10500 Ridge Road,Palmetto,34221,1677,754-205-1404
+Snow,Xiomara,1801,Personal Care,2022-12-23,2,Delivered,FL,10655 Orchard Avenue,Stuart,34994,1586,727-176-8576
+Elliott,Stevie,1802,Electronics,2022-12-27,2,Delivered,AL,79178 Central Avenue,Birmingham,35203,490,205-459-4637
+White,Lila,1803,Pets,2022-12-28,6,Shipped,NC,23180 Cherry Lane,Columbia,29201,226,252-224-1233
+Gross,Theo,1804,Pets,2022-12-26,5,Shipped,LA,79090 Locust Street,Covington,70433,480,318-824-4433
+Maynard,Shiloh,1805,Home & Kitchen,2022-12-07,13,Cancelled,NC,30925 Broad Street,Chapel Hill,27514,1303,704-868-3478
+Mayer,Steven,1806,Personal Care,2022-12-04,3,Shipped,SC,12665 Pinecrest Drive,Camden,29020,1219,843-913-3004
+Ponce,Nadia,1807,Electronics,2022-12-21,10,In Transit,NC,11579 Chestnut Avenue,Asheville,28801,929,336-528-7578
+Greer,Hayden,1808,Clothing,2022-12-21,20,Shipped,LA,90325 Forest Avenue,Shreveport,71101,246,318-330-6482
+Pearson,Bo,1809,Personal Care,2022-12-05,6,Delivered,GA,21998 Riverside Drive,Columbus,31908,245,404-408-4149
+Rush,Sydney,1810,Pets,2022-12-23,20,Shipped,SC,22987 Sunset Drive,Greenville,29601,1337,843-175-1710
+Wise,Aspen,1811,Clothing,2022-12-25,4,Shipped,LA,81307 Oak Street,New Orleans,70112,1726,504-114-1265
+Ramirez,Ava,1812,Sports & Outdoors,2022-12-03,8,Delivered,FL,8445 Ridge Road,Stuart,34994,576,754-648-9630
+Mathis,Damon,1813,Personal Care,2022-12-07,19,Delivered,AL,39274 Ash Street,Adamsville,35005,854,334-771-5728
+Preston,Francis,1814,Electronics,2022-12-07,1,Shipped,NC,32323 Walnut Street,Chapel Hill,27514,127,704-461-2506
+Vaughan,Leila,1815,Clothing,2022-12-03,16,Shipped,SC,4644 Sunset Avenue,Camden,29020,1309,843-384-1105
+Hanna,Rowan,1816,Clothing,2022-12-27,4,Shipped,FL,30897 Smith Street,Sunny Isles Beach,33160,95,386-930-8770
+Henson,Vivian,1817,Pets,2022-12-08,20,Cancelled,NC,93729 Vineyard Drive,Asheville,28801,1220,252-795-8904
+Clayton,Brody,1818,Home & Kitchen,2022-12-28,11,Delivered,LA,51168 Chestnut Lane,New Orleans,70112,1904,318-242-1762
+Barajas,Ali,1819,Books,2022-12-30,13,Cancelled,FL,81285 Spring Street,St. Petersburg,33701,866,727-477-8763
+Carr,Madelynn,1820,Pets,2022-12-18,12,Delivered,FL,34326 Terrace Avenue,Stuart,34994,1799,561-383-2273
+Buck,Julian,1821,Clothing,2022-12-29,15,Shipped,LA,72519 Lincoln Street,Shreveport,71101,11,318-165-5202
+Owens,Josephine,1822,Pets,2022-12-18,10,Delivered,NC,93628 Elmwood Drive,Asheville,28801,384,336-657-5547
+Arellano,Jonathan,1823,Sports & Outdoors,2022-12-12,2,Delivered,FL,89706 Sunset Avenue,Palmetto,34221,1274,754-919-6356
+Dennis,Judah,1824,Sports & Outdoors,2022-12-28,10,Delivered,SC,21236 Main Avenue,Camden,29020,915,843-722-5434
+Walsh,Alijah,1825,Electronics,2022-12-31,6,Cancelled,LA,84255 Main Street,Shreveport,71101,529,504-736-7280
+Conrad,Sebastian,1826,Sports & Outdoors,2022-12-29,6,Cancelled,SC,66775 Court Street,Camden,29020,571,854-136-2359
+Kerr,Summer,1827,Personal Care,2022-12-18,15,Delivered,NC,94900 College Avenue,Asheville,28801,889,252-136-2479
+Mcintyre,June,1828,Sports & Outdoors,2022-12-21,1,Cancelled,NC,61992 Park Avenue,Columbia,29201,100,336-617-6352
+Mathis,Greyson,1829,Personal Care,2022-12-27,13,In Transit,LA,63748 Jackson Street,Baton Rouge,70802,888,225-446-1324
+Scott,Bodie,1830,Personal Care,2022-12-01,18,In Transit,NC,20239 Cherry Lane,Asheville,28801,1472,704-529-7730
+Cordova,Russell,1831,Clothing,2022-12-22,11,Delivered,LA,41846 Meadow Lane,New Orleans,70112,909,225-382-3693
+Johns,Payton,1832,Electronics,2022-12-12,8,Delivered,SC,88686 Chestnut Street,Charleston,29401,1354,803-579-3125
+Roth,Titus,1833,Books,2022-12-26,6,Delivered,LA,55852 Vine Street,Shreveport,71101,1067,318-832-3328
+Schneider,Alessandra,1834,Personal Care,2022-12-06,18,Cancelled,AL,22303 Lake Street,Adamsville,35005,993,251-199-7794
+Gill,Phoenix,1835,Books,2022-12-07,16,Shipped,SC,20041 Elm Street,Greenville,29601,799,864-287-4329
+Lucas,Amanda,1836,Sports & Outdoors,2022-12-19,19,Shipped,FL,56182 River Road,Birmingham,35203,361,386-663-6220
+Ferguson,Frances,1837,Books,2022-12-25,13,Delivered,LA,46892 Sixth Street,New Orleans,70112,359,504-470-4401
+Craig,Abel,1838,Pets,2022-12-25,5,Delivered,FL,77846 Meadow Lane,Stuart,34994,695,727-166-4203
+Flowers,Briella,1839,Personal Care,2022-12-03,12,Delivered,LA,90224 Meadow Lane,Shreveport,71101,1143,225-977-4537
+Gonzalez,Camilla,1840,Home & Kitchen,2022-12-20,16,Shipped,AL,46342 Franklin Street,Montgomery,36104,1235,256-623-2667
+Lane,Kash,1841,Pets,2022-12-30,15,Delivered,NC,35248 North Street,Columbia,29201,108,252-823-5730
+Henry,Maria,1842,Personal Care,2022-12-21,17,Delivered,FL,70888 Madison Street,St. Petersburg,33701,1455,352-527-7659
+Huffman,Shiloh,1843,Books,2022-12-04,14,Shipped,LA,49252 Sunset Avenue,Baton Rouge,70802,1628,504-689-2806
+Curry,Micah,1844,Pets,2022-12-16,6,Shipped,GA,30718 Fairview Avenue,Avondale Estates,30002,750,229-873-8373
+Magana,Kyrie,1845,Personal Care,2022-12-17,13,Shipped,LA,82397 Valley View Drive,Baton Rouge,70802,1545,337-480-5028
+Shepherd,Selah,1846,Sports & Outdoors,2022-12-28,19,Delivered,NC,50523 Second Street,Chapel Hill,27514,1632,252-164-3855
+Schroeder,Destiny,1847,Clothing,2022-12-04,4,Delivered,AL,97422 Broad Street,Montgomery,36104,54,205-797-3551
+Quintana,Dylan,1848,Electronics,2022-12-13,4,Delivered,FL,53740 Elm Avenue,Stuart,34994,681,321-807-1964
+Love,Elsie,1849,Electronics,2022-12-13,14,In Transit,SC,55865 Chestnut Street,Camden,29020,165,864-103-8484
+Ellison,Frederick,1850,Clothing,2022-12-01,6,Delivered,LA,37983 Franklin Street,Covington,70433,259,504-233-3521
+Henderson,Marley,1851,Home & Kitchen,2022-12-21,7,Cancelled,NC,52884 Center Street,Columbia,29201,561,252-590-2161
+Lane,Abraham,1852,Electronics,2022-12-19,20,Delivered,LA,51850 Vineyard Drive,Shreveport,71101,49,225-212-1312
+Duncan,Bailey,1853,Electronics,2022-12-29,16,Delivered,NC,44700 Railroad Avenue,Columbia,29201,513,336-826-5314
+Cherry,Emily,1854,Electronics,2022-12-30,12,Delivered,GA,99693 Sunset Avenue,Avondale Estates,30002,1062,678-453-8121
+Pugh,Gracelyn,1855,Home & Kitchen,2022-12-24,8,In Transit,LA,43879 Hillcrest Avenue,Covington,70433,155,337-996-9888
+Middleton,Jesse,1856,Home & Kitchen,2022-12-31,5,Cancelled,FL,66498 Magnolia Avenue,Palmetto,34221,1081,386-144-6239
+Hubbard,Kyle,1857,Home & Kitchen,2022-12-25,18,Delivered,SC,45326 Hamilton Street,Camden,29020,353,803-650-8440
+Barber,Marcus,1858,Sports & Outdoors,2022-12-04,20,Delivered,FL,73635 Elmwood Avenue,Stuart,34994,882,305-635-4215
+Montes,Catalina,1859,Books,2022-12-16,16,Shipped,AL,68663 Washington Street,Mobile,36602,1171,251-928-4371
+Curry,Nadia,1860,Clothing,2022-12-08,14,Shipped,GA,91589 Laurel Street,Bainbridge,39828,1532,678-353-5737
+Rowe,Trinity,1861,Home & Kitchen,2022-12-07,13,Delivered,SC,68446 Locust Street,Bluffton,29910,686,843-641-7558
+Adkins,Sullivan,1862,Sports & Outdoors,2022-12-10,12,Delivered,LA,82378 Cherry Lane,Baton Rouge,70802,1116,337-629-6590
+Cole,Ian,1863,Home & Kitchen,2022-12-05,13,Shipped,NC,57304 School Street,Columbia,29201,1187,336-414-9242
+Page,Cairo,1864,Home & Kitchen,2022-12-21,12,Delivered,AL,55324 Orchard Avenue,Adamsville,35005,669,256-396-6521
+Quintero,Emersyn,1865,Home & Kitchen,2022-12-14,15,Cancelled,LA,22609 Maple Street,Baton Rouge,70802,1082,504-661-9205
+Huff,Edgar,1866,Books,2022-12-30,15,Shipped,FL,98362 Ash Street,Palmetto,34221,911,754-976-8177
+Stevenson,Kyler,1867,Clothing,2022-12-14,2,In Transit,FL,34753 Highland Avenue,Palmetto,34221,1283,321-221-4860
+Ryan,Maisie,1868,Electronics,2022-12-12,4,Cancelled,GA,91166 Jefferson Street,Avondale Estates,30002,535,706-898-6342
+Tanner,Noa,1869,Personal Care,2022-12-02,15,In Transit,SC,93363 Jackson Street,Charleston,29401,433,843-670-2427
+Simpson,Alexandra,1870,Personal Care,2022-12-14,17,Delivered,FL,52255 Washington Street,Fleming Island,32003,1539,386-736-9562
+Russell,Kora,1871,Electronics,2022-12-04,10,Shipped,LA,32735 Fifth Street,Baton Rouge,70802,234,225-135-7639
+Colón,Samara,1872,Personal Care,2022-12-04,9,Shipped,AL,1663 Pennsylvania Avenue,Birmingham,35203,1034,938-205-6938
+Singh,Joaquin,1873,Electronics,2022-12-07,9,In Transit,AL,97922 Third Street,Montgomery,36104,1057,251-617-1680
+Hoffman,Joy,1874,Sports & Outdoors,2022-12-12,9,Delivered,LA,22538 Forest Avenue,Covington,70433,1435,337-469-6243
+Martin,Gabriel,1875,Pets,2022-12-05,11,Delivered,GA,58213 Oakwood Avenue,Avondale Estates,30002,297,762-402-6014
+Tucker,Patrick,1876,Electronics,2022-12-13,9,Shipped,NC,53371 Windsor Avenue,Chapel Hill,27514,1083,252-883-4036
+Mullins,Regina,1877,Home & Kitchen,2022-12-02,18,Delivered,GA,41301 Forest Avenue,Avondale Estates,30002,1518,706-269-7375
+Norris,Hayes,1878,Pets,2022-12-03,13,Delivered,NC,39730 Chestnut Lane,Columbia,29201,471,704-216-4815
+Best,Kaylee,1879,Home & Kitchen,2022-12-21,7,In Transit,LA,22523 Main Street,Baton Rouge,70802,888,318-394-7264
+Mcgee,Brooklynn,1880,Home & Kitchen,2022-12-19,9,Shipped,GA,13477 Railroad Avenue,Atlanta,30303,677,478-929-6347
+Rose,Zaire,1881,Sports & Outdoors,2022-12-01,20,Delivered,FL,81593 West Street,Birmingham,35203,689,386-995-7802
+Novak,Wade,1882,Electronics,2022-12-30,5,Shipped,NC,41143 Elmwood Lane,Charlotte,28202,365,252-375-8068
+Haley,Sonny,1883,Personal Care,2022-12-09,11,Cancelled,GA,46863 West Street,Bainbridge,39828,939,762-667-5416
+Solis,Jonathan,1884,Home & Kitchen,2022-12-11,5,Shipped,SC,28433 Main Street,Camden,29020,1485,803-894-1123
+Powell,Katherine,1885,Electronics,2022-12-23,10,Shipped,NC,2532 Railroad Avenue,Charlotte,28202,985,704-562-2507
+Roth,Ximena,1886,Home & Kitchen,2022-12-06,17,Delivered,SC,8070 School Street,Greenville,29601,364,854-365-6608
+Matthews,Stetson,1887,Home & Kitchen,2022-12-24,10,Delivered,FL,45158 College Avenue,St. Petersburg,33701,779,352-893-3107
+Gray,Adelina,1888,Home & Kitchen,2022-12-26,9,Delivered,GA,32229 Valley Road,Avondale Estates,30002,772,470-144-6043
+Rosario,Casey,1889,Books,2022-12-16,7,Cancelled,LA,89153 Forest Avenue,Shreveport,71101,1015,504-405-7938
+Fuentes,Sutton,1890,Pets,2022-12-02,10,Shipped,FL,30606 Liberty Street,Fleming Island,32003,1101,727-274-3716
+Steele,Briella,1891,Books,2022-12-10,8,Shipped,SC,55265 Center Street,Camden,29020,1173,843-648-4248
+Patton,Allie,1892,Books,2022-12-17,11,Shipped,AL,14938 Grant Street,Adamsville,35005,1006,938-678-9310
+Guerra,Ryker,1893,Books,2022-12-22,11,In Transit,AL,4978 Spruce Street,Montgomery,36104,141,205-285-5662
+Mora,Abigail,1894,Sports & Outdoors,2022-12-16,15,In Transit,NC,30638 Terrace Avenue,Asheville,28801,347,336-991-7839
+Hanson,Kayla,1895,Clothing,2022-12-23,11,Shipped,AL,3877 Locust Street,Birmingham,35203,276,334-689-3954
+Barnes,Naomi,1896,Electronics,2022-12-05,1,Shipped,FL,58690 Pine Street,St. Petersburg,33701,1796,321-601-3139
+Carson,Sullivan,1897,Sports & Outdoors,2022-12-19,6,Cancelled,FL,61749 Ridge Street,Birmingham,35203,726,561-687-5689
+Larson,Jasmine,1898,Pets,2022-12-18,13,Delivered,NC,48068 Second Street,Charlotte,28202,1047,252-593-5861
+Sutton,Cataleya,1899,Clothing,2022-12-11,16,Delivered,GA,30576 Valley Road,Columbus,31901,1125,478-939-4300
+Velazquez,Georgia,1900,Home & Kitchen,2022-12-03,6,Delivered,FL,29078 Fourth Street,Sunny Isles Beach,33160,824,352-851-1079
+Hall,Sterling,1901,Electronics,2022-12-04,17,Shipped,SC,15378 University Avenue,Greenville,29601,1334,864-575-4762
+Wong,Makayla,1902,Electronics,2022-12-24,3,Shipped,FL,22602 Locust Street,Fleming Island,32003,1291,305-797-4109
+Anderson,Ailani,1903,Clothing,2022-12-16,18,Shipped,FL,55461 Lincoln Street,Fleming Island,32003,1266,561-554-3302
+Griffin,Ariana,1904,Pets,2022-12-02,4,Shipped,LA,72265 Elm Avenue,Shreveport,71101,212,504-512-9506
+Wheeler,Warren,1905,Sports & Outdoors,2022-12-16,6,Shipped,GA,60180 Fifth Street,Atlanta,30303,1717,678-316-6695
+Enriquez,Shiloh,1906,Sports & Outdoors,2022-12-09,7,In Transit,GA,93451 Sixth Street,Savannah,31401,632,770-998-9915
+Walker,Saige,1907,Books,2022-12-13,8,Delivered,AL,47146 Jefferson Street,Birmingham,35203,1577,256-165-8840
+Solis,Kaleb,1908,Clothing,2022-12-16,2,Delivered,AL,35052 College Avenue,Birmingham,35203,116,251-872-4537
+Holt,London,1909,Books,2022-12-08,9,Shipped,SC,47774 Ridge Road,Charleston,29401,1532,803-755-8808
+French,Genesis,1910,Sports & Outdoors,2022-12-27,14,Shipped,FL,43579 Madison Avenue,Birmingham,35203,759,407-954-3529
+Arias,Sonny,1911,Electronics,2022-12-29,11,Cancelled,SC,37776 Elm Street,Charleston,29401,1377,854-808-9332
+Frazier,Sutton,1912,Pets,2022-12-07,18,Cancelled,AL,65177 Terrace Avenue,Birmingham,35203,352,205-403-9294
+Hodge,Luke,1913,Sports & Outdoors,2022-12-07,7,Delivered,SC,87205 Riverside Drive,Charleston,29401,1312,803-706-6500
+Richardson,Banks,1914,Clothing,2022-12-01,9,In Transit,SC,19095 Willow Street,Greenville,29601,1314,864-692-6346
+Hudson,Shiloh,1915,Sports & Outdoors,2022-12-25,6,Delivered,FL,99500 Elmwood Avenue,Birmingham,35203,720,727-219-8736
+Cooper,Aisha,1916,Clothing,2022-12-19,18,Delivered,GA,73472 Willow Avenue,Atlanta,30303,362,470-307-4008
+Fleming,Jacob,1917,Pets,2022-12-13,3,Shipped,LA,99719 Ridge Road,Baton Rouge,70802,802,504-730-4312
+Velez,Navy,1918,Home & Kitchen,2022-12-20,3,Cancelled,SC,12819 Holly Street,Charleston,29401,375,803-867-8978
+Schultz,Lilly,1919,Personal Care,2022-12-05,20,Shipped,NC,18332 Main Street,Asheville,28801,383,252-935-1384
+Rhodes,Evelyn,1920,Home & Kitchen,2022-12-15,17,Shipped,GA,16020 Pinecrest Drive,Avondale Estates,30002,806,706-246-9292
+Roy,Arya,1921,Electronics,2022-12-24,5,In Transit,NC,83774 Magnolia Avenue,Chapel Hill,27514,758,252-884-9501
+Bernal,Fernando,1922,Books,2022-12-11,8,Delivered,LA,40185 Main Avenue,Shreveport,71101,241,225-239-2623
+Cantrell,Sophia,1923,Books,2022-12-31,16,In Transit,SC,53097 Mulberry Street,Bluffton,29910,40,854-275-6253
+Holt,Rebecca,1924,Pets,2022-12-06,18,Shipped,LA,97886 Second Street,Baton Rouge,70802,1547,318-295-7047
+Quinn,George,1925,Electronics,2022-12-05,9,Shipped,AL,90441 Rose Street,Adamsville,35005,395,938-757-2807
+Stewart,Rhett,1926,Books,2022-12-15,9,Delivered,GA,70066 Willow Avenue,Avondale Estates,30002,787,706-297-1648
+Ward,Amelia,1927,Pets,2022-12-08,8,Shipped,FL,65100 Ridge Road,Stuart,34994,627,561-710-5653
+Payne,Zion,1928,Books,2022-12-12,7,Shipped,GA,94323 Elm Street,Bainbridge,39828,262,478-689-4945
+Ortiz,Gracie,1929,Clothing,2022-12-12,20,Delivered,NC,16744 Willow Avenue,Columbia,29201,943,336-689-1719
+Becker,Eden,1930,Books,2022-12-18,8,Shipped,AL,71002 Pine Street,Adamsville,35005,423,251-375-2243
+Nash,Jaxon,1931,Home & Kitchen,2022-12-29,11,Shipped,NC,85968 Chestnut Lane,Asheville,28801,1636,704-693-9792
+Anderson,Kade,1932,Books,2022-12-07,20,Shipped,AL,29012 Spring Street,Adamsville,35005,39,251-975-6231
+Cherry,Ian,1933,Electronics,2022-12-18,7,Delivered,GA,63610 West Street,Bainbridge,39828,1660,770-398-7356
+Glass,Timothy,1934,Home & Kitchen,2022-12-31,14,In Transit,NC,8854 Fifth Street,Charlotte,28202,262,336-436-7744
+Thomas,Sadie,1935,Clothing,2022-12-31,12,In Transit,SC,28202 Country Club Road,Greenville,29601,961,843-346-4340
+Quinn,Steven,1936,Home & Kitchen,2022-12-04,10,Shipped,LA,49110 River Road,Shreveport,71101,554,504-143-3113
+Petersen,Elliot,1937,Clothing,2022-12-21,18,Delivered,AL,59188 Meadow Lane,Birmingham,35203,52,205-228-6315
+Lu,Sergio,1938,Pets,2022-12-17,5,Delivered,AL,60251 Oakwood Avenue,Birmingham,35203,1048,256-229-7261
+Brooks,Zara,1939,Clothing,2022-12-09,5,Delivered,SC,72914 Division Street,Greenville,29601,482,864-525-5640
+Odom,Xander,1940,Clothing,2022-12-31,5,Delivered,AL,78057 Ridge Road,Mobile,36602,1603,938-821-8963
+Randall,Miguel,1941,Personal Care,2022-12-27,11,In Transit,LA,92985 Valley View Drive,Baton Rouge,70802,1143,337-512-2338
+Potts,Walter,1942,Sports & Outdoors,2022-12-15,17,Delivered,FL,21221 Maple Street,St. Petersburg,33701,656,305-347-2075
+Herman,Walter,1943,Books,2022-12-31,14,Shipped,FL,87172 Mulberry Street,Stuart,34994,482,386-787-4494
+Estes,Eduardo,1944,Clothing,2022-12-03,3,Delivered,FL,3495 Spruce Street,Sunny Isles Beach,33160,267,352-997-4732
+Daugherty,Samara,1945,Home & Kitchen,2022-12-08,18,In Transit,GA,86749 Lakeview Drive,Savannah,31401,877,770-313-8047
+Gillespie,Allison,1946,Personal Care,2022-12-16,11,Delivered,SC,79043 Sunset Avenue,Camden,29020,268,854-697-3379
+Harrington,Emersyn,1947,Home & Kitchen,2022-12-01,3,Delivered,LA,98741 Lakeview Avenue,New Orleans,70112,1311,225-369-3916
+Ingram,Arya,1948,Books,2022-12-24,4,Delivered,AL,86331 Franklin Street,Mobile,36602,1294,334-991-7384
+Reyes,Aaliyah,1949,Home & Kitchen,2022-12-15,6,Shipped,FL,73927 Cherry Street,Palmetto,34221,1744,754-154-5597
+George,Mary,1950,Personal Care,2022-12-26,20,Delivered,AL,60045 River Road,Birmingham,35203,1285,256-794-6687
+Greer,Elian,1951,Home & Kitchen,2022-12-01,11,Delivered,AL,4817 Pinecrest Drive,Montgomery,36104,909,938-844-1456
+Phillips,Frederick,1952,Home & Kitchen,2022-12-28,5,Delivered,GA,9100 Pinecrest Drive,Savannah,31401,111,770-547-1764
+Velazquez,Rhys,1953,Electronics,2022-12-15,2,Delivered,FL,54947 Fifth Street,Fleming Island,32003,419,305-646-3846
+Cardenas,Michelle,1954,Pets,2022-12-20,10,Shipped,LA,66298 College Avenue,Baton Rouge,70802,1258,225-454-3803
+Vaughan,Autumn,1955,Personal Care,2022-12-22,6,Cancelled,LA,17418 Sunset Boulevard,Shreveport,71101,232,225-363-8643
+Charles,Jade,1956,Personal Care,2022-12-27,5,Shipped,GA,41954 Elmwood Avenue,Columbus,31901,1495,404-769-2713
+Colón,Emiliano,1957,Clothing,2022-12-21,16,Delivered,AL,27955 Maple Street,Mobile,36602,668,205-910-5621
+Rosales,Malik,1958,Clothing,2022-12-17,7,Shipped,AL,89724 Spring Street,Montgomery,36104,468,251-100-6500
+Potts,Aria,1959,Home & Kitchen,2022-12-04,3,Delivered,FL,93610 Terrace Avenue,Sunny Isles Beach,33160,1416,386-744-8691
+Jacobson,Ariah,1960,Clothing,2022-12-25,19,Shipped,AL,71307 Country Club Road,Birmingham,35203,1783,334-111-7611
+Beasley,Teagan,1961,Clothing,2022-12-21,14,Shipped,LA,20438 Locust Street,Covington,70433,1233,337-595-5598
+Pollard,Sebastian,1962,Books,2022-12-10,7,Cancelled,NC,78170 Country Club Road,Charlotte,28202,1250,336-406-1497
+Stanley,Malia,1963,Electronics,2022-12-09,8,In Transit,GA,80889 Rose Street,Avondale Estates,30002,341,770-975-4900
+Aguirre,Baylor,1964,Clothing,2022-12-12,1,Shipped,LA,98068 Lincoln Street,Baton Rouge,70802,704,337-715-7765
+Thompson,Kayden,1965,Sports & Outdoors,2022-12-27,14,Delivered,SC,73157 Colonial Drive,Greenville,29601,1327,843-808-2018
+Boone,Rose,1966,Electronics,2022-12-25,16,Shipped,LA,60349 Court Street,New Orleans,70112,1593,225-433-8120
+Barrera,Christian,1967,Books,2022-12-27,11,Delivered,AL,42083 Court Street,Birmingham,35203,1260,205-793-8296
+Hoffman,Nicolas,1968,Clothing,2022-12-25,12,Cancelled,FL,69266 Elmwood Avenue,Birmingham,35203,1329,407-292-9864
+Morrison,Caiden,1969,Personal Care,2022-12-11,16,Delivered,LA,31632 Willow Street,Shreveport,71101,756,337-574-8304
+Crawford,Dallas,1970,Books,2022-12-21,6,Shipped,NC,91927 Jackson Street,Columbia,29201,1085,704-105-6575
+Gomez,Sawyer,1971,Sports & Outdoors,2022-12-07,1,Delivered,GA,28897 Ridge Road,Savannah,31401,1461,706-167-5545
+Frederick,Oakley,1972,Personal Care,2022-12-31,19,Delivered,SC,14739 Main Avenue,Greenville,29601,195,864-675-1642
+Correa,Kaiden,1973,Sports & Outdoors,2022-12-06,2,Shipped,SC,33148 West Street,Greenville,29601,122,803-338-4493
+Raymond,Declan,1974,Pets,2022-12-05,9,Delivered,SC,86868 College Avenue,Charleston,29401,1207,803-978-3463
+Portillo,Reed,1975,Sports & Outdoors,2022-12-09,20,Shipped,AL,77622 Willow Avenue,Mobile,36602,1590,334-143-6880
+Swanson,Carolina,1976,Sports & Outdoors,2022-12-02,8,Cancelled,FL,6752 Ridge Street,Fleming Island,32003,832,754-707-7184
+Craig,Ayden,1977,Clothing,2022-12-24,15,Shipped,FL,95205 Smith Street,Palmetto,34221,555,305-328-2428
+Nolan,Skylar,1978,Electronics,2022-12-20,5,Cancelled,SC,3575 Willow Street,Bluffton,29910,227,843-808-7632
+Noble,Josephine,1979,Clothing,2022-12-26,8,Cancelled,SC,28725 Sunset Boulevard,Camden,29020,1653,864-188-6246
+Dawson,Sage,1980,Pets,2022-12-04,1,Delivered,GA,47312 Broad Street,Columbus,31901,1647,770-173-5453
+Hunt,Bryce,1981,Pets,2022-12-17,15,Shipped,SC,37262 Pine Street,Greenville,29601,465,864-466-9086
+Horn,Ivy,1982,Personal Care,2022-12-23,19,Delivered,NC,45674 River Road,Asheville,28801,309,252-172-5317
+Kelly,Kayson,1983,Home & Kitchen,2022-12-23,9,In Transit,GA,83252 Ash Street,Columbus,31901,1039,770-149-4930
+Washington,Savannah,1984,Sports & Outdoors,2022-12-13,14,In Transit,LA,95500 Jefferson Street,Baton Rouge,70802,353,337-445-8369
+Kennedy,Georgia,1985,Electronics,2022-12-29,13,Delivered,SC,97651 Pinecrest Drive,Camden,29020,1596,854-934-3464
+Avalos,Alan,1986,Home & Kitchen,2022-12-14,9,Shipped,LA,81707 Vineyard Drive,New Orleans,70112,925,225-662-8342
+Adams,Valerie,1987,Home & Kitchen,2022-12-04,7,Delivered,LA,88547 Riverside Drive,Baton Rouge,70802,383,225-584-6493
+Brock,Helen,1988,Books,2022-12-11,12,Shipped,GA,81287 Colonial Drive,Bainbridge,39828,702,678-657-8302
+Allen,Alan,1989,Books,2022-12-12,17,Shipped,NC,20364 Central Avenue,Chapel Hill,27514,609,336-261-1545
+Rodriguez,Itzel,1990,Pets,2022-12-12,8,Delivered,GA,38400 Forest Avenue,Atlanta,30303,267,470-470-9416
+Holt,Jimena,1991,Personal Care,2022-12-17,13,Delivered,SC,78682 Cherry Street,Camden,29020,271,864-899-5596
+Nash,Alyssa,1992,Electronics,2022-12-30,11,In Transit,NC,13216 Park Place,Chapel Hill,27514,253,252-975-9641
+Miles,Declan,1993,Clothing,2022-12-13,16,Shipped,FL,69350 College Avenue,Stuart,34994,809,727-216-8494
+Skinner,Gideon,1994,Pets,2022-12-18,16,Delivered,LA,99959 Liberty Street,Covington,70433,665,225-830-2725
+Zamora,Celine,1995,Clothing,2022-12-29,7,Delivered,FL,71779 Fairview Avenue,Birmingham,35203,1071,727-232-8605
+Drake,Jimena,1996,Electronics,2022-12-27,15,Shipped,NC,43093 Pinecrest Drive,Chapel Hill,27514,745,704-874-3135
+Bennett,Emma,1997,Clothing,2022-12-04,18,Shipped,NC,46190 Madison Street,Charlotte,28202,1176,336-884-5489
+Kane,Fatima,1998,Pets,2022-12-21,9,Cancelled,FL,99293 Spring Street,Palmetto,34221,1045,321-662-4259
+Dawson,Alyssa,1999,Electronics,2022-12-06,9,Delivered,LA,69061 Oakwood Avenue,New Orleans,70112,57,504-176-9558
+Bonilla,Melanie,2000,Sports & Outdoors,2022-12-23,19,Shipped,AL,70943 Cherry Lane,Birmingham,35203,607,256-440-1360
+Winters,Holden,2001,Pets,2022-12-27,12,Delivered,SC,22482 Meadow Lane,Greenville,29601,267,854-369-1299
+Jensen,Haven,2002,Sports & Outdoors,2022-12-19,8,Shipped,NC,24150 Main Street,Charlotte,28202,56,336-921-5683
+Pollard,Zander,2003,Home & Kitchen,2022-12-05,4,Shipped,SC,75930 Highland Avenue,Camden,29020,921,854-704-3346
+Krueger,Aisha,2004,Clothing,2022-12-06,3,Shipped,SC,66893 Elmwood Lane,Greenville,29601,1432,854-687-2498
+Stokes,Maddox,2005,Books,2022-12-24,10,Delivered,LA,60360 Oak Street,New Orleans,70112,507,318-578-2372
+Sims,Cooper,2006,Electronics,2022-12-12,20,Shipped,LA,80595 North Street,New Orleans,70112,468,318-561-8655
+Jensen,Trinity,2007,Electronics,2022-12-09,14,Shipped,GA,83147 Walnut Street,Savannah,31401,705,762-995-3771
+Castillo,Rosalie,2008,Home & Kitchen,2022-12-05,10,Shipped,AL,58805 Lake Street,Mobile,36602,625,251-517-2647
+Lewis,Frank,2009,Books,2022-12-07,13,In Transit,NC,79464 Jackson Street,Columbia,29201,1432,336-128-3700
+Doyle,Messiah,2010,Clothing,2022-12-27,12,Shipped,LA,82313 Broadway,New Orleans,70112,344,504-999-3264
+Becker,Owen,2011,Books,2022-12-09,4,Delivered,LA,53662 High Street,Baton Rouge,70802,1182,225-275-8649
+Adams,Luke,2012,Electronics,2022-12-31,14,Delivered,LA,18263 High Street,Covington,70433,1521,225-715-5308
+Fletcher,Kendrick,2013,Pets,2022-12-23,20,Delivered,AL,53078 Colonial Drive,Birmingham,35203,253,205-513-3793
+Stephenson,Amari,2014,Books,2022-12-09,18,Delivered,GA,15417 College Avenue,Bainbridge,39828,1283,404-520-9745
+Hodges,Cade,2015,Personal Care,2022-12-17,1,Delivered,SC,30882 Elm Street,Bluffton,29910,1150,864-891-2016
+Hopkins,Serenity,2016,Sports & Outdoors,2022-12-24,7,Delivered,NC,76763 Park Avenue,Columbia,29201,1248,704-687-8725
+Parks,Leonardo,2017,Books,2022-12-07,3,Delivered,NC,28908 Orchard Avenue,Charlotte,28202,1447,336-524-8311
+Kennedy,Serenity,2018,Electronics,2022-12-08,3,Delivered,GA,73543 Ridge Street,Avondale Estates,30002,530,770-646-9402
+Russo,Payton,2019,Sports & Outdoors,2022-12-22,8,Delivered,FL,78902 Lake Street,Stuart,34994,823,352-610-7377
+Case,Atticus,2020,Clothing,2022-12-26,14,Shipped,SC,39561 Court Street,Greenville,29601,1227,803-739-8470
+Graham,Zyaire,2021,Personal Care,2022-12-01,8,In Transit,NC,38921 Center Street,Columbia,29201,1049,252-869-6952
+Ball,Myles,2022,Home & Kitchen,2022-12-10,9,Shipped,GA,5667 Ridge Street,Avondale Estates,30002,653,229-525-9460
+Moore,Liliana,2023,Books,2022-12-18,18,Shipped,FL,59902 Windsor Avenue,Fleming Island,32003,1276,727-991-4117
+Schroeder,Gianna,2024,Sports & Outdoors,2022-12-07,11,Cancelled,AL,40813 Third Street,Birmingham,35203,981,256-892-7538
+Browning,Robert,2025,Sports & Outdoors,2022-12-23,12,Delivered,LA,64298 Madison Avenue,Shreveport,71101,111,225-453-2888
+Hahn,Nadia,2026,Books,2022-12-27,15,Delivered,LA,96473 Main Street,Covington,70433,689,504-383-4934
+Curtis,Claire,2027,Sports & Outdoors,2022-12-27,4,Delivered,SC,56054 Third Street,Bluffton,29910,1207,864-224-4618
+Brennan,Alison,2028,Clothing,2022-12-12,3,Delivered,GA,38055 Elmwood Avenue,Atlanta,30303,1341,770-382-1936
+Osborne,Salem,2029,Clothing,2022-12-10,10,Shipped,LA,6623 Franklin Street,Shreveport,71101,405,318-920-9275
+Sandoval,Brooklynn,2030,Sports & Outdoors,2022-12-23,1,Shipped,GA,1209 Country Club Road,Savannah,31401,1203,762-493-1644
+Gibson,Charlee,2031,Clothing,2022-12-10,19,Delivered,GA,80003 Oak Street,Bainbridge,39828,616,470-770-6323
+Rowland,Sophia,2032,Personal Care,2022-12-31,1,Delivered,LA,50089 Madison Street,Baton Rouge,70802,622,337-705-8366
+Bonilla,Sullivan,2033,Personal Care,2022-12-28,14,Shipped,AL,83262 Center Street,Montgomery,36104,480,256-832-1727
+Gonzalez,Callie,2034,Home & Kitchen,2022-12-18,3,Shipped,AL,53845 Windsor Avenue,Mobile,36602,23,256-422-9440
+Piñeda,Sullivan,2035,Sports & Outdoors,2022-12-12,10,Delivered,LA,29267 Walnut Street,Covington,70433,688,318-165-5021
+Duffy,Hannah,2036,Pets,2022-12-14,2,Shipped,SC,94683 Terrace Avenue,Charleston,29401,1500,803-769-4449
+Lang,Gracelynn,2037,Personal Care,2022-12-14,1,Shipped,AL,13064 West Street,Birmingham,35203,428,251-140-3520
+Daugherty,Maria,2038,Personal Care,2022-12-31,20,Delivered,NC,92115 Jackson Street,Chapel Hill,27514,445,336-950-5910
+Jacobson,Cataleya,2039,Books,2022-12-03,14,Shipped,LA,31150 Orchard Avenue,New Orleans,70112,88,504-389-9049
+Guevara,Princeton,2040,Electronics,2022-12-25,19,Cancelled,SC,13319 Essex Street,Camden,29020,23,864-464-7323
+Dominguez,Justin,2041,Home & Kitchen,2022-12-31,19,Delivered,GA,79645 High Street,Columbus,31901,1381,229-967-1056
+Maynard,Tatum,2042,Personal Care,2022-12-29,14,Delivered,NC,9211 Railroad Avenue,Chapel Hill,27514,1674,704-606-6222
+Dillon,Jaxton,2043,Electronics,2022-12-15,12,In Transit,AL,44873 Hamilton Street,Mobile,36602,645,251-565-3682
+Cooper,Makenna,2044,Clothing,2022-12-02,5,Delivered,AL,57390 Broadway,Adamsville,35005,203,251-279-2990
+O’Brien,Donovan,2045,Home & Kitchen,2022-12-03,11,Delivered,FL,63329 High Street,Fleming Island,32003,861,386-611-9525
+Medina,Reese,2046,Books,2022-12-06,19,Cancelled,FL,49568 Riverside Drive,Birmingham,35203,897,305-779-6826
+Hutchinson,Renata,2047,Home & Kitchen,2022-12-27,2,Shipped,NC,23404 Cherry Street,Chapel Hill,27514,1663,252-552-4236
+Rice,Millie,2048,Home & Kitchen,2022-12-26,3,Cancelled,SC,60930 Oak Street,Camden,29020,117,864-450-5532
+Espinosa,Harlow,2049,Sports & Outdoors,2022-12-13,9,Shipped,FL,81190 Elm Street,Palmetto,34221,859,386-463-2963
+Harmon,Camille,2050,Sports & Outdoors,2022-12-01,19,In Transit,NC,9261 Smith Street,Columbia,29201,933,336-532-6004
+Lamb,Gracie,2051,Clothing,2022-12-10,2,Delivered,NC,53119 Colonial Drive,Chapel Hill,27514,1703,252-575-2642
+Truong,Lia,2052,Electronics,2022-12-20,19,Delivered,GA,54966 Park Avenue,Bainbridge,39828,352,678-347-3394
+Walters,Franklin,2053,Home & Kitchen,2022-12-21,14,In Transit,AL,56464 Railroad Avenue,Birmingham,35203,1026,256-630-3816
+Farrell,Raelynn,2054,Electronics,2022-12-30,12,Shipped,LA,43262 Country Club Road,New Orleans,70112,82,225-410-1016
+Hurst,Kali,2055,Personal Care,2022-12-07,1,Delivered,SC,44400 Main Street,Camden,29020,1711,854-739-2778
+Frost,Kyler,2056,Electronics,2022-12-07,7,Delivered,SC,78965 Lakeview Avenue,Bluffton,29910,1009,854-315-1418
+Perez,Avery,2057,Personal Care,2022-12-21,7,Shipped,GA,55244 Hillcrest Avenue,Columbus,31908,30,470-446-9170
+Ruiz,Alayah,2058,Pets,2022-12-08,15,Shipped,SC,69250 Washington Street,Charleston,29401,507,864-462-6542
+Kerr,Adelaide,2059,Electronics,2022-12-11,19,Delivered,LA,13148 College Avenue,Baton Rouge,70802,1085,318-507-3365
+Nash,Hallie,2060,Electronics,2022-12-23,15,Cancelled,LA,59704 State Street,Baton Rouge,70802,1308,337-232-4260
+Fleming,Elaine,2061,Pets,2022-12-22,17,In Transit,LA,84202 Broad Street,Covington,70433,511,225-368-9666
+Johnson,Ronan,2062,Sports & Outdoors,2022-12-10,9,Shipped,AL,65391 Harrison Street,Birmingham,35203,239,205-448-6136
+Dean,Aurora,2063,Home & Kitchen,2022-12-15,6,Shipped,GA,50494 Elmwood Avenue,Columbus,31901,322,770-410-4942
+Kerr,Garrett,2064,Sports & Outdoors,2022-12-13,7,Shipped,GA,74116 Elm Avenue,Bainbridge,39828,1494,678-104-2772
+Garrett,Ricardo,2065,Home & Kitchen,2022-12-02,7,Delivered,NC,22838 Walnut Avenue,Charlotte,28202,123,336-217-2564
+Leon,Gunner,2066,Pets,2022-12-11,13,In Transit,SC,83210 Jackson Street,Bluffton,29910,464,864-578-3367
+Mcconnell,Lilah,2067,Pets,2022-12-05,16,Cancelled,FL,13899 Locust Street,St. Petersburg,33701,1178,321-452-1285
+Webster,Sylas,2068,Electronics,2022-12-17,2,Delivered,AL,73743 North Street,Mobile,36602,433,334-557-1557
+Porter,Lyla,2069,Sports & Outdoors,2022-12-02,4,Shipped,AL,98809 Main Street,Adamsville,35005,306,938-716-3682
+Robinson,Walter,2070,Home & Kitchen,2022-12-05,20,Shipped,GA,6888 Jackson Street,Atlanta,30303,976,470-114-7085
+Ho,Sawyer,2071,Pets,2022-12-04,3,Shipped,SC,47996 Park Street,Bluffton,29910,188,854-454-2337
+Mcbride,Kane,2072,Pets,2022-12-14,12,Shipped,AL,29726 College Avenue,Birmingham,35203,162,256-964-5326
+Burgess,Everleigh,2073,Clothing,2022-12-05,17,Delivered,NC,88191 Sunset Avenue,Charlotte,28202,726,252-581-9808
+Harrell,Felix,2074,Clothing,2022-12-01,5,In Transit,AL,96648 West Street,Mobile,36602,1131,251-765-5495
+Burgess,Bryson,2075,Books,2022-12-12,10,Cancelled,FL,40173 Highland Avenue,Stuart,34994,214,561-900-9522
+Marshall,Cole,2076,Books,2022-12-04,15,Shipped,LA,12520 Cedar Street,Covington,70433,1417,504-975-8372
+Sanford,Caroline,2077,Personal Care,2022-12-31,10,Delivered,AL,65596 Hillcrest Avenue,Mobile,36602,239,334-375-3400
+Cunningham,Judah,2078,Sports & Outdoors,2022-12-07,4,Cancelled,AL,47625 Grant Street,Mobile,36602,267,334-742-5377
+Price,Amari,2079,Books,2022-12-26,10,In Transit,AL,30149 Colonial Drive,Adamsville,35005,720,938-454-4882
+Tucker,Jaylen,2080,Personal Care,2022-12-18,18,Shipped,GA,33665 Court Street,Bainbridge,39828,701,762-387-2875
+Harris,Greyson,2081,Electronics,2022-12-02,5,In Transit,FL,38427 Elmwood Lane,Stuart,34994,713,727-433-1455
+Bates,Grayson,2082,Pets,2022-12-25,6,Shipped,NC,96449 Sunset Avenue,Columbia,29201,470,336-833-4421
+Pope,Rose,2083,Sports & Outdoors,2022-12-23,19,Cancelled,LA,3780 Highland Drive,New Orleans,70112,502,504-290-9093
+Savage,Marlee,2084,Clothing,2022-12-25,14,Delivered,NC,1655 Central Avenue,Asheville,28801,234,704-728-7300
+Rogers,Phoebe,2085,Clothing,2022-12-21,11,In Transit,AL,81017 Meadow Lane,Birmingham,35203,1713,205-884-5892
+Huerta,Liliana,2086,Books,2022-12-13,19,Shipped,NC,89468 Jefferson Street,Charlotte,28202,1702,704-811-8058
+Webster,Annabelle,2087,Electronics,2022-12-05,8,Delivered,LA,73142 Sunset Drive,New Orleans,70112,824,504-948-9276
+Peck,Sophie,2088,Clothing,2022-12-22,15,Delivered,GA,93842 Magnolia Avenue,Bainbridge,39828,1305,470-409-7720
+Wilkinson,Javier,2089,Clothing,2022-12-09,20,Cancelled,FL,39488 North Street,Birmingham,35203,436,352-148-2153
+Welch,Timothy,2090,Home & Kitchen,2022-12-01,13,Delivered,FL,2717 Meadow Lane,Stuart,34994,208,305-481-4287
+Vega,Blake,1588,Personal Care,2022-12-03,17,Shipped,GA,63913 Valley View Drive,Avondale Estates,30002,214,678-878-1111
+Moran,Bentley,2091,Pets,2022-12-20,9,Cancelled,LA,20746 Sunset Avenue,New Orleans,70112,1091,504-933-2854
+Mayo,Octavia,2092,Clothing,2022-12-07,5,Delivered,FL,49168 Pine Street,Birmingham,35203,1593,321-173-1266
+Cortéz,Gael,2093,Electronics,2022-12-17,10,Delivered,NC,3463 Pine Street,Chapel Hill,27514,323,336-796-1274
+Solis,Catalina,2094,Personal Care,2022-12-14,18,Delivered,AL,82697 Locust Street,Birmingham,35203,1358,205-255-5830
+Bravo,Dahlia,2095,Clothing,2022-12-15,15,Delivered,NC,9440 Madison Street,Chapel Hill,27514,1478,252-940-1389
+Bernal,Finley,2096,Clothing,2022-12-24,11,Delivered,SC,94565 Vineyard Drive,Greenville,29601,306,854-683-3326
+Klein,Nash,2097,Personal Care,2022-12-15,12,Cancelled,LA,59643 Terrace Avenue,New Orleans,70112,818,337-293-4366
+Norman,Stephanie,2098,Pets,2022-12-21,17,Delivered,LA,1404 Spring Street,Shreveport,71101,1045,504-982-4959
+Cisneros,Sabrina,2099,Home & Kitchen,2022-12-10,17,Cancelled,LA,41418 Ash Street,Baton Rouge,70802,1839,225-531-7269
+Serrano,Laura,2100,Sports & Outdoors,2022-12-04,7,In Transit,GA,75676 Cherry Street,Atlanta,30303,90,229-859-3953
+Thornton,Augustus,2101,Sports & Outdoors,2022-12-19,5,Shipped,NC,22539 Spring Street,Columbia,29201,1640,336-341-5764
+Burns,Russell,2102,Personal Care,2022-12-24,7,Delivered,FL,25724 Jackson Street,Fleming Island,32003,161,727-624-3637
+Atkins,Joel,2103,Pets,2022-12-02,8,Shipped,GA,30619 Lakeview Avenue,Savannah,31401,1859,762-616-7931
+Williams,Sutton,2104,Electronics,2022-12-01,6,Delivered,SC,77428 Rose Street,Camden,29020,1267,843-491-2155
+Parra,Remington,2105,Pets,2022-12-24,20,In Transit,GA,45669 Willow Avenue,Savannah,31401,256,470-235-3276
+Stone,Isabel,2106,Personal Care,2022-12-03,12,Cancelled,NC,54639 Lake Shore Drive,Asheville,28801,1208,252-265-4604
+Best,Francesca,2107,Clothing,2022-12-15,19,In Transit,NC,45644 Cedar Street,Charlotte,28202,310,336-843-8930
+Eaton,Violet,2108,Electronics,2022-12-21,17,Shipped,AL,66841 Cherry Lane,Mobile,36602,1083,251-330-6221
+Martinez,Journee,2109,Books,2022-12-02,4,Delivered,FL,34883 Vineyard Drive,Fleming Island,32003,404,727-756-2329
+Carson,Marley,2110,Pets,2022-12-31,16,Shipped,SC,13610 Franklin Street,Bluffton,29910,1658,854-413-6377
+Hill,Valentina,2111,Sports & Outdoors,2022-12-06,20,Cancelled,FL,72726 Central Avenue,Stuart,34994,724,305-235-9132
+Gordon,Jett,2112,Electronics,2022-12-08,4,Shipped,SC,4462 Valley View Drive,Greenville,29601,1054,843-626-1523
+Hobbs,Adalyn,2113,Pets,2022-12-19,7,Shipped,LA,36855 Lincoln Street,Baton Rouge,70802,262,225-282-9277
+Nguyen,Joshua,2114,Clothing,2022-12-26,20,Delivered,NC,69498 Holly Street,Columbia,29201,373,336-486-6528
+Kaur,Martin,2115,Personal Care,2022-12-21,3,Delivered,NC,13943 Park Avenue,Chapel Hill,27514,1104,336-233-7605
+Atkinson,Jose,2116,Sports & Outdoors,2022-12-14,8,Delivered,LA,37931 Elmwood Drive,Baton Rouge,70802,1283,337-604-7266
+Knapp,Kendrick,2117,Clothing,2022-12-09,3,Cancelled,LA,19104 Hillcrest Avenue,Shreveport,71101,1539,225-301-6029
+Ventura,Haven,2118,Books,2022-12-29,5,In Transit,GA,63900 High Street,Savannah,31401,1345,762-250-4661
+Combs,Raphael,2119,Electronics,2022-12-27,15,In Transit,SC,83915 Riverside Drive,Camden,29020,479,843-615-3390
+Truong,Zoey,2120,Pets,2022-12-29,15,Shipped,FL,65959 Third Street,Fleming Island,32003,1493,727-913-3197
+Klein,Brody,2121,Personal Care,2022-12-20,10,Delivered,LA,78327 Forest Avenue,Covington,70433,1038,337-416-6146
+House,Willow,2122,Personal Care,2022-12-14,20,Delivered,NC,61199 Hamilton Street,Charlotte,28202,973,336-834-4054
+Vargas,Zayden,2123,Sports & Outdoors,2022-12-25,8,Delivered,GA,17663 Walnut Street,Atlanta,30303,319,770-902-1218
+Bentley,Royalty,2124,Clothing,2022-12-30,16,Shipped,AL,47920 Willow Street,Birmingham,35203,1436,334-603-3203
+Mcdonald,Adrian,2125,Electronics,2022-12-12,18,Delivered,FL,42801 Broadway,Palmetto,34221,1450,305-526-8012
+Leblanc,Quinn,2126,Electronics,2022-12-16,2,Cancelled,NC,21439 High Street,Asheville,28801,1667,252-330-4229
+Sutton,Zayn,2127,Personal Care,2022-12-05,10,In Transit,FL,79715 Walnut Street,Birmingham,35203,1080,305-254-6025
+Bishop,Marley,2128,Home & Kitchen,2022-12-26,5,Delivered,LA,48691 Lakeview Drive,New Orleans,70112,654,337-215-9603
+Holt,Aspen,2129,Electronics,2022-12-17,20,Delivered,GA,95723 Harrison Street,Avondale Estates,30002,1124,762-760-9530
+Mack,Stevie,2130,Sports & Outdoors,2022-12-13,17,Cancelled,LA,74831 Terrace Avenue,Shreveport,71101,1200,318-338-3374
+Chung,Remi,2131,Home & Kitchen,2022-12-16,11,Shipped,NC,40626 College Avenue,Chapel Hill,27514,11,704-307-4000
+Nixon,Eleanor,2132,Sports & Outdoors,2022-12-02,8,Delivered,SC,21960 Vineyard Drive,Camden,29020,380,843-113-2976
+Travis,Sawyer,2133,Sports & Outdoors,2022-12-16,12,Delivered,AL,28029 School Street,Mobile,36602,1832,334-363-3972
+Calhoun,Aubree,2134,Personal Care,2022-12-02,13,Shipped,NC,22348 University Avenue,Chapel Hill,27514,198,252-590-8024
+Frank,Collin,2135,Clothing,2022-12-30,12,Shipped,LA,50197 Sunset Avenue,New Orleans,70112,1596,504-503-3201
+Cabrera,Kira,2136,Sports & Outdoors,2022-12-13,12,Delivered,GA,95465 Vineyard Drive,Atlanta,30303,1293,678-527-8027
+Reynolds,Alayna,2137,Electronics,2022-12-16,12,Delivered,NC,42035 Center Street,Columbia,29201,1005,704-449-3485
+Thornton,Luis,2138,Personal Care,2022-12-23,11,In Transit,SC,79775 Lakeview Avenue,Greenville,29601,1585,864-970-2343
+Willis,Sabrina,2139,Sports & Outdoors,2022-12-04,3,Shipped,FL,39681 Spring Street,Birmingham,35203,85,352-957-2601
+Crosby,Jasper,2140,Electronics,2022-12-20,6,Delivered,FL,47003 Jefferson Street,Birmingham,35203,578,407-332-2793
+Marsh,Aubrey,2141,Home & Kitchen,2022-12-14,19,Shipped,FL,47836 Main Avenue,Stuart,34994,484,407-101-8664
+Whitaker,Charlotte,2142,Electronics,2022-12-14,13,Delivered,NC,75773 Railroad Avenue,Columbia,29201,545,704-830-6764
+Raymond,Abel,2143,Personal Care,2022-12-23,19,Delivered,LA,98432 Mulberry Street,Covington,70433,834,504-870-9737
+Arias,Everett,2144,Books,2022-12-09,8,Shipped,SC,79504 Smith Street,Greenville,29601,16,843-698-7334
+Morrison,Esme,2145,Pets,2022-12-18,13,Shipped,GA,10399 Elmwood Avenue,Avondale Estates,30002,768,404-399-2049
+Jefferson,Delaney,2146,Home & Kitchen,2022-12-20,7,Delivered,GA,77610 Terrace Avenue,Atlanta,30303,125,470-219-1261
+Ellis,Callan,2147,Clothing,2022-12-29,9,Shipped,NC,32954 Main Avenue,Charlotte,28202,370,336-987-2732
+Kirby,Griffin,2148,Books,2022-12-25,7,Shipped,AL,48617 Lakeview Drive,Adamsville,35005,1538,205-787-9018
+Burns,Danielle,2149,Electronics,2022-12-11,9,Shipped,GA,78575 Lakeview Drive,Atlanta,30303,283,706-762-2637
+West,Kashton,2150,Home & Kitchen,2022-12-28,3,Delivered,FL,92715 Cherry Lane,St. Petersburg,33701,551,386-792-1645
+Mueller,Poppy,2151,Personal Care,2022-12-11,10,Delivered,LA,79657 Glenwood Avenue,Shreveport,71101,1384,337-263-8604
+Mann,Cody,2152,Pets,2022-12-26,16,Delivered,LA,55008 Elmwood Drive,New Orleans,70112,1418,337-944-8614
+Simmons,Emiliano,2153,Home & Kitchen,2022-12-24,18,In Transit,AL,72144 Lake Street,Mobile,36602,616,334-662-3834
+Bennett,Joy,2154,Personal Care,2022-12-16,9,Cancelled,SC,47583 Glenwood Avenue,Camden,29020,1330,803-348-5253
+Saunders,Millie,2155,Books,2022-12-04,3,Delivered,FL,52727 Mulberry Street,Fleming Island,32003,1770,386-414-6797
+Duffy,Warren,2156,Books,2022-12-26,13,Shipped,AL,53827 Park Street,Mobile,36602,1031,251-142-1717
+Davila,Spencer,2157,Sports & Outdoors,2022-12-19,11,Delivered,AL,41621 Spring Street,Mobile,36602,995,256-698-1211
+Cooper,Tristan,2158,Sports & Outdoors,2022-12-27,1,In Transit,LA,30635 College Avenue,Baton Rouge,70802,1549,225-521-5102
+Barrett,Sawyer,2159,Home & Kitchen,2022-12-14,5,Delivered,GA,65707 Ridge Street,Avondale Estates,30002,573,478-561-9701
+Drake,Mckenzie,2160,Sports & Outdoors,2022-12-28,14,Delivered,LA,93239 Chestnut Lane,New Orleans,70112,1426,337-646-3689
+Crawford,Ryker,2161,Pets,2022-12-04,18,Delivered,GA,92169 Pennsylvania Avenue,Savannah,31401,1496,762-901-5513
+Khan,Frances,2162,Electronics,2022-12-12,9,Shipped,FL,7264 Lakeview Avenue,Palmetto,34221,759,386-944-7842
+Greer,Armani,2163,Home & Kitchen,2022-12-15,14,Shipped,NC,10721 Park Place,Chapel Hill,27514,1353,252-478-2584
+Caldwell,Aylin,2164,Pets,2022-12-14,16,In Transit,SC,85383 Oak Street,Camden,29020,1279,843-470-4578
+Fernandez,Dax,2165,Clothing,2022-12-13,8,Cancelled,FL,53936 Lake Shore Drive,St. Petersburg,33701,906,407-465-4243
+Brown,Catherine,2166,Books,2022-12-23,10,Shipped,GA,12159 Glenwood Avenue,Atlanta,30303,1296,478-292-2264
+Maldonado,Beckett,2167,Books,2022-12-23,1,Shipped,SC,8491 Orchard Avenue,Camden,29020,1221,843-303-2625
+Greene,Muhammad,2168,Personal Care,2022-12-27,15,Cancelled,LA,8019 Chestnut Avenue,Baton Rouge,70802,844,337-701-9708
+Hampton,Angelina,2169,Electronics,2022-12-19,13,Delivered,GA,32896 Pine Street,Columbus,31908,1342,404-997-1783
+Mckenzie,Ivan,2170,Books,2022-12-08,4,Delivered,FL,66956 Main Avenue,Sunny Isles Beach,33160,17,407-517-1214
+Muñoz,Carmen,2171,Pets,2022-12-04,16,Shipped,LA,83378 Fourth Street,Baton Rouge,70802,1100,318-290-1569
+Cantrell,Myles,2172,Personal Care,2022-12-16,5,Shipped,SC,66491 Railroad Avenue,Charleston,29401,17,854-991-3122
+Curtis,Blake,2173,Electronics,2022-12-17,1,Delivered,SC,30665 Ridge Street,Charleston,29401,1384,854-121-4061
+Molina,Cole,2174,Books,2022-12-03,7,Cancelled,LA,89599 Church Street,New Orleans,70112,942,318-103-8819
+Hughes,Kenneth,2175,Pets,2022-12-04,11,In Transit,LA,40412 Holly Street,Shreveport,71101,100,337-494-7911
+Weiss,Fatima,2176,Books,2022-12-30,15,Delivered,NC,23321 Second Street,Asheville,28801,1248,704-259-1685
+Dean,Maddox,2177,Personal Care,2022-12-21,2,Shipped,FL,3978 College Avenue,Palmetto,34221,1366,561-270-6550
+Gutierrez,Joshua,2178,Sports & Outdoors,2022-12-29,2,Delivered,GA,25419 Center Street,Savannah,31401,738,770-921-5878
+Briggs,Andy,2179,Pets,2022-12-23,2,Shipped,FL,7822 Pinecrest Drive,Birmingham,35203,1004,561-375-9865
+Pierce,Connor,2180,Books,2022-12-14,19,Delivered,AL,90782 Glenwood Avenue,Adamsville,35005,1380,256-225-8951
+Boyd,Evangeline,2181,Sports & Outdoors,2022-12-24,7,In Transit,GA,75268 Highland Drive,Savannah,31401,263,770-383-1221
+Arellano,Aubrey,2182,Clothing,2022-12-02,15,Shipped,LA,50859 West Street,New Orleans,70112,1009,318-154-2342
+Moses,Gabriella,2183,Clothing,2022-12-09,15,Cancelled,LA,85656 Hillcrest Avenue,New Orleans,70112,1270,504-239-8410
+Luna,Wyatt,2184,Pets,2022-12-06,15,Shipped,AL,92454 Meadow Lane,Mobile,36602,763,251-402-6741
+Clayton,Camille,2185,Electronics,2022-12-25,8,Shipped,LA,65980 Third Street,Shreveport,71101,1456,337-411-2526
+Esparza,Connor,2186,Pets,2022-12-18,17,Cancelled,SC,34109 Second Street,Bluffton,29910,1199,854-474-9921
+Cordova,Garrett,2187,Pets,2022-12-07,18,Delivered,AL,78434 Highland Avenue,Adamsville,35005,175,251-266-5682
+Duncan,Erick,2188,Books,2022-12-13,6,Cancelled,SC,58941 Lake Street,Bluffton,29910,1045,854-437-6926
+Kirk,Tobias,2189,Pets,2022-12-16,5,Shipped,AL,7778 Jackson Street,Mobile,36602,1415,251-458-3648
+Floyd,Colin,2190,Home & Kitchen,2022-12-22,15,Delivered,FL,78354 Pine Street,Birmingham,35203,80,407-757-8760
+Rojas,Eliza,2191,Clothing,2022-12-30,13,Delivered,SC,78314 Chestnut Street,Camden,29020,1362,864-799-8967
+Singh,Elise,2192,Books,2022-12-11,17,Shipped,NC,96273 Washington Street,Chapel Hill,27514,1770,252-785-7026
+Best,Allison,2193,Sports & Outdoors,2022-12-18,10,Shipped,FL,16541 River Road,Fleming Island,32003,1192,727-222-3747
+Ferguson,Manuel,2194,Personal Care,2022-12-05,14,Delivered,LA,44219 Valley View Drive,Baton Rouge,70802,1204,225-292-9484
+Sanford,Rosie,2195,Books,2022-12-24,8,Shipped,AL,40816 Franklin Street,Birmingham,35203,1488,334-933-8910
+Dunn,Finley,2196,Electronics,2022-12-26,18,Shipped,GA,66085 Sunset Boulevard,Atlanta,30303,970,478-824-8809
+Kelley,Aurora,2197,Personal Care,2022-12-08,4,Shipped,FL,39435 Cherry Lane,Stuart,34994,1852,727-756-2319
+Livingston,Dominic,2198,Books,2022-12-19,9,Shipped,GA,30805 Grant Street,Savannah,31401,349,770-802-7098
+Bailey,Kevin,2199,Clothing,2022-12-02,8,Shipped,SC,15132 Ridge Road,Greenville,29601,994,843-781-5135
+Gardner,Karson,2200,Electronics,2022-12-29,8,Shipped,GA,66628 Vineyard Drive,Bainbridge,39828,1153,762-340-6901
+Frost,Winter,2201,Clothing,2022-12-14,6,Delivered,SC,98644 Broadway,Camden,29020,1269,854-873-4616
+Palacios,Vivian,2202,Sports & Outdoors,2022-12-07,1,Delivered,GA,62807 Highland Drive,Columbus,31901,548,706-115-7152
+Melton,Kyle,2203,Books,2022-12-30,20,Shipped,GA,7960 Elmwood Avenue,Columbus,31901,649,762-268-6952
+Suarez,Kate,2204,Books,2022-12-08,20,Cancelled,AL,19677 Main Street,Montgomery,36104,1119,938-935-2522
+Merritt,Ezra,2205,Electronics,2022-12-18,7,In Transit,NC,57865 Park Street,Asheville,28801,800,704-484-1065
+Hodge,River,2206,Pets,2022-12-06,17,Delivered,FL,77666 Sunset Drive,Birmingham,35203,718,352-306-5880
+Clay,Lennox,2207,Pets,2022-12-03,13,Shipped,FL,49976 Ash Street,Birmingham,35203,175,407-648-3449
+Knapp,Uriel,2208,Personal Care,2022-12-17,2,Delivered,FL,95355 North Street,Birmingham,35203,314,754-410-9607
+Sexton,Stella,2209,Electronics,2022-12-19,20,Delivered,NC,28089 River Road,Charlotte,28202,410,336-630-4108
+Luna,Sebastian,2210,Sports & Outdoors,2022-12-18,8,Delivered,AL,77224 Grant Street,Mobile,36602,1723,205-107-3912
+Kirby,Sarai,2211,Books,2022-12-21,18,Shipped,LA,61890 Smith Street,Shreveport,71101,1167,225-683-3688
+Daugherty,Aaliyah,2212,Home & Kitchen,2022-12-09,20,Shipped,AL,77797 Windsor Avenue,Birmingham,35203,1837,256-722-2525
+Armstrong,King,2213,Pets,2022-12-14,11,Cancelled,AL,37417 Jefferson Street,Mobile,36602,1622,205-525-7779
+Frost,Jordan,2214,Home & Kitchen,2022-12-07,9,Shipped,LA,73106 Sunset Avenue,Baton Rouge,70802,1411,318-645-9108
+Rhodes,Angelo,2215,Clothing,2022-12-23,14,Shipped,GA,52978 Magnolia Avenue,Columbus,31908,305,678-604-9834
+Lucas,Ruth,2216,Personal Care,2022-12-24,1,Shipped,FL,34578 Pleasant Street,Palmetto,34221,1516,352-295-9874
+Rice,Zayne,2217,Pets,2022-12-01,4,Shipped,NC,24010 Main Avenue,Asheville,28801,991,252-716-5451
+Zuniga,Miracle,2218,Pets,2022-12-10,19,Delivered,FL,44213 Hamilton Street,Palmetto,34221,871,321-605-6217
+Clements,Blair,2219,Pets,2022-12-22,20,Shipped,AL,67358 Terrace Avenue,Mobile,36602,501,938-561-5776
+Butler,Natalie,2220,Personal Care,2022-12-19,18,Shipped,SC,75777 Elm Street,Greenville,29601,293,803-455-8424
+Patel,Elian,2221,Pets,2022-12-12,6,Shipped,SC,80308 Main Avenue,Greenville,29601,353,854-600-4543
+Gonzalez,Sterling,2222,Pets,2022-12-12,10,Delivered,SC,77401 Second Street,Charleston,29401,250,864-480-4741
+Holmes,Bentley,2223,Personal Care,2022-12-12,13,Shipped,SC,91621 River Road,Camden,29020,102,864-475-1456
+Sims,Frederick,2224,Electronics,2022-12-03,19,Delivered,GA,27674 Smith Street,Bainbridge,39828,843,470-164-6797
+Shields,Elliot,2225,Books,2022-12-04,15,Delivered,GA,90581 Central Avenue,Atlanta,30303,1105,706-506-4291
+Green,Ezra,2226,Books,2022-12-03,7,Delivered,SC,22750 Fifth Street,Greenville,29601,215,843-395-9051
+Robbins,Crew,2227,Pets,2022-12-23,12,Shipped,LA,68270 River Road,Shreveport,71101,1865,318-125-1831
+Salinas,Willow,2228,Books,2022-12-25,4,Cancelled,GA,68706 Sixth Street,Bainbridge,39828,1050,404-248-4929
+Bond,Malachi,2229,Pets,2022-12-23,20,Shipped,LA,36199 Fairview Avenue,Shreveport,71101,1059,318-485-3209
+Willis,Patrick,2230,Sports & Outdoors,2022-12-14,16,Shipped,LA,62176 Cedar Street,Covington,70433,1116,337-795-4890
+Compton,Dallas,2231,Electronics,2022-12-13,19,Delivered,NC,72481 Court Street,Asheville,28801,49,704-863-4035
